@@ -1,51 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="Lista 16" ,VTV
-https://sv.spliktv.xyz/live/caster/CA/c3eds/VTV_HD/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Claro Sports Argentina
-https://sv.spliktv.xyz/live/caster/CLARO-SPORTS.m3u8
-#EXTINF:-1 group-title="Lista 16" ,NBA NBA TV
-http://wedrly.lvod-akc-sa-east-2.media.spliktv.xyz/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8?caster
-#EXTINF:-1 group-title="Lista 16" ,Directv Sports 2 Argentina
-https://sv.spliktv.xyz/live/caster/CA/c4eds/ESPNHD/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,ESPN 4 Argentina
-https://sv.spliktv.xyz/live/caster/FOX_SPORTS/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Fox Sports 2 Argentina
-https://sv.spliktv.xyz/live/caster/FOX_SPORTS_2/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Fox Sports Premium Argentina
-https://sv.spliktv.xyz/live/caster/CA/c3eds/TNT_Sports_HD/ab.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Fox Sports Premium Chile
-https://sv.spliktv.xyz/live/caster/MX/TNT-SPORTS.m3u8
-#EXTINF:-1 group-title="Lista 16" ,TyC Sports Argentina
-https://sv.spliktv.xyz/live/caster/RB/TYC-SPORTS.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Bein Sports en Español
-https://sv.spliktv.xyz/live/caster/US/BEIN-XTRA.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Bein Sports CONNECT 3
-https://sv.spliktv.xyz/live/caster/RB/BEIN-CONNECT-3.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Bein Sports CONNECT 4
-https://sv.spliktv.xyz/live/caster/RB/BEIN-CONNECT-4.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Bein Sports CONNECT 5
-https://sv.spliktv.xyz/live/caster/RB/BEIN-CONNECT-5.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Bein Sports CONNECT 6
-https://sv.spliktv.xyz/live/caster/RB/BEIN-CONNECT-6.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Bein Sports CONNECT 7
-https://sv.spliktv.xyz/live/caster/RB/BEIN-CONNECT-7.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Bein Sports CONNECT 8
-https://sv.spliktv.xyz/live/caster/RB/BEIN-CONNECT-8.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Deportv en Español
-https://sv.spliktv.xyz/live/caster/RB/GOLTV-ES.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Deportv in English
-https://sv.spliktv.xyz/live/caster/RB/GOLTV-EN.m3u8
-#EXTINF:-1 group-title="Lista 16" ,HBO
-https://sv.spliktv.xyz/live/caster/HBO_HD/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Cinecanal
-https://sv.spliktv.xyz/live/caster/CINECANAL_HD/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Space
-https://sv.spliktv.xyz/live/caster/SPACE_HD/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,Studio Universal
-https://sv.spliktv.xyz/live/caster/STUDIO_UNIVERSAL/index.m3u8
-#EXTINF:-1 group-title="Lista 16" ,A3Series Internacional
-https://sv.spliktv.xyz/live/caster/ATRES_SERIES_HD/index.m3u8
+
 #EXTINF:-1 group-title="Lista 16" , 24/7 Telemundo Chicago
 https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/master.m3u8
 #EXTINF:-1 group-title="Lista 16" , 24/7 MX Classic Pel\u00edculas
