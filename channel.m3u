@@ -1,14 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/ispasoner/my-list-chanel/main/EPG.xml"
-#EXTM3U
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png"  group-title="Lista 01", BLACKGHOST 01
-http://bgapp.live/TV&g=file&token=blacccckghost&f=.m3u8&g=file&token=blacccckghost&f=.m3u8.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista 01",  Apoyanos para seguirte ofreciendo mas opciones
-http://bgapp.live/TV&g=file&token=blacccckghost&f=.m3u8.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista 01",  http://paypal.me/blackghost
-http://bgapp.live/TV&g=file&token=blacccckghost&f=.m3u8
-
 
 
 
