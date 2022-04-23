@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/ispasoner/list/main/EPG.xml" 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/ispasoner/list/main/EPG-gia.xml" 
 
 #EXTINF:-1 group-title="Lista mx1",A&E HD (211)
 http://bgapp.live/play/totalp1s-455.php?k=blckghs&tokenn=blacccckghost&c=62
