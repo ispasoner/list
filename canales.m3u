@@ -1,7 +1,6 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/ispasoner/list/main/EPG-Guide-20220507232029.xml"
 
 
-
  
 #EXTINF:-1,*Mejor proveedor de IPTV premium | Más de 3000 canales Full HD
  
@@ -268,89 +267,94 @@ http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m
 #EXTINF:0 tvg-id="ext" group-title="USA",WHPR TV 33 Detroit
 http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",ABC 7 News (Sarasota)
+#EXTINF:0 tvg-id="ext" group-title="USA",ABC 7 News (Sarasota)
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",ABC News 9 (Orlando)
+#EXTINF:0 tvg-id="ext" group-title="USA",ABC News 9 (Orlando)
 http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",CBS 2 (Salt Lake City)
+#EXTINF:0 tvg-id="ext" group-title="USA",CBS 2 (Salt Lake City)
 http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",CBS 4 News (Indianapolis)
+#EXTINF:0 tvg-id="ext" group-title="USA",CBS 4 News (Indianapolis)
 http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",CBS 5 News (Colorado)
+#EXTINF:0 tvg-id="ext" group-title="USA",CBS 5 News (Colorado)
 http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",Channel 11 News WPXI (Pittsburgh)
+#EXTINF:0 tvg-id="ext" group-title="USA",Channel 11 News WPXI (Pittsburgh)
 http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",KOMO 4 News (Seattle)
+#EXTINF:0 tvg-id="ext" group-title="USA",KOMO 4 News (Seattle)
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",KRGV 5 (Weslaco)
+#EXTINF:0 tvg-id="ext" group-title="USA",KRGV 5 (Weslaco)
 http://krgv-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",NBC 10 News (Philadelphia)
+#EXTINF:0 tvg-id="ext" group-title="USA",NBC 10 News (Philadelphia)
 http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",NBC 11 News (Bay Area)
+#EXTINF:0 tvg-id="ext" group-title="USA",NBC 11 News (Bay Area)
 http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",NBC 4 News (Washington DC)
+#EXTINF:0 tvg-id="ext" group-title="USA",NBC 4 News (Washington DC)
 https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",NBC 5 News (Chicago)
+#EXTINF:0 tvg-id="ext" group-title="USA",NBC 5 News (Chicago)
 http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",NBC News 13 (Albany)
+#EXTINF:0 tvg-id="ext" group-title="USA",NBC News 13 (Albany)
 http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",News 12 (Brooklyn)
+#EXTINF:0 tvg-id="ext" group-title="USA",News 12 (Brooklyn)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",News 12 (Connecticut - Traffic)
+#EXTINF:0 tvg-id="ext" group-title="USA",News 12 (Connecticut - Traffic)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",News 12 (Connecticut)
+#EXTINF:0 tvg-id="ext" group-title="USA",News 12 (Connecticut)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",News 12 (Hudson Valley)
+#EXTINF:0 tvg-id="ext" group-title="USA",News 12 (Hudson Valley)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",News 12 (Hudson Valley)
+#EXTINF:0 tvg-id="ext" group-title="USA",News 12 (Hudson Valley)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",News 12 (Long Island - News)
+#EXTINF:0 tvg-id="ext" group-title="USA",News 12 (Long Island - News)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",News 12 (Long Island - Traffic)
+#EXTINF:0 tvg-id="ext" group-title="USA",News 12 (Long Island - Traffic)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",News 12 (New Jersey - Traffic)
+#EXTINF:0 tvg-id="ext" group-title="USA",News 12 (New Jersey - Traffic)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",News 12 (New Jersey)
+#EXTINF:0 tvg-id="ext" group-title="USA",News 12 (New Jersey)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",News 12 (New York City - Traffic)
+#EXTINF:0 tvg-id="ext" group-title="USA",News 12 (New York City - Traffic)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",News 12 (The Bronx)
+#EXTINF:0 tvg-id="ext" group-title="USA",News 12 (The Bronx)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",News 12 (Westchester)
+#EXTINF:0 tvg-id="ext" group-title="USA",News 12 (Westchester)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",NewsChannel 21 (Oregon)
+#EXTINF:0 tvg-id="ext" group-title="USA",NewsChannel 21 (Oregon)
 http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",WCCB News (Charlotte)
+#EXTINF:0 tvg-id="ext" group-title="USA",WCCB News (Charlotte)
 http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="USA LOCAL",WGN 9 News (Chicago)
+#EXTINF:0 tvg-id="ext" group-title="USA",WGN 9 News (Chicago)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="USA",WVIT 30 News (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+
+ 
 
 #EXTINF:0 tvg-id="ext" group-title="USA LOCAL",WVIT 30 News (Hartford)
 http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
