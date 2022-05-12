@@ -715,34 +715,7 @@ http://bgapp.live/play/trasco-533.php?c=652HBOFamily/transco13&tokenn=blaccccckg
 #EXTINF:-1  group-title="CINE PREMIUM", HBO Xtreme
 http://bgapp.live/play/trasco-533.php?c=658MaxPrime/transco13&tokenn=blaccccckghoost&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tptotal.jpg" group-title="RECOMENDADOS",Canal Total
-http://clubtv.link/may09/may9/geomex.php?c=3255
-#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="RECOMENDADOS",Azteca Uno (HD)
-http://clubtv.link/may09/may9/geomex.php?c=7
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="RECOMENDADOS",Las Estrellas (HD)
-http://clubtv.link/may09/may9/geomex.php?c=1784
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="RECOMENDADOS",Imagen Televisión (HD)
-http://clubtv.link/may09/may9/geomex.php?c=2606
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="RECOMENDADOS",Canal 5 (HD)
-http://clubtv.link/may09/may9/geomex.php?c=1785
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="RECOMENDADOS",Azteca 7 (HD)
-http://clubtv.link/may09/may9/geomex.php?c=317
-#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png" group-title="RECOMENDADOS",NU9VE
-http://clubtv.link/may09/may9/geomex.php?c=1783
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="RECOMENDADOS",ESPN
-http://clubtv.link/may09/may9/geomex.php?c=169
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="RECOMENDADOS",ESPN 2
-http://clubtv.link/may09/may9/geomex.php?c=168
-#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png" group-title="RECOMENDADOS",ESPN 3
-http://clubtv.link/may09/may9/geomex.php?c=345
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="RECOMENDADOS",Fox Sports
-http://clubtv.link/may09/may9/geomex.php?c=170
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="RECOMENDADOS",Fox Sports 2
-http://clubtv.link/may09/may9/geomex.php?c=172
-#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="RECOMENDADOS",Fox Sports 3
-http://clubtv.link/may09/may9/geomex.php?c=178
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="RECOMENDADOS",TUDN (HD)
-http://clubtv.link/may09/may9/geomex.php?c=174
+
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group-title="RECOMENDADOS",Afizzionados
 http://bgapp.live/play/14-533.php?c=878&token=blaccccckghoost&f=.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="RECOMENDADOS",Claro Sports (HD)
@@ -1959,66 +1932,7 @@ http://bgapp.live/play/14-533.php?c=721&token=blaccccckghoost&f=.m3u8
 http://bgapp.live/play/14-533.php?c=799&token=blaccccckghoost&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="24/7", Pokemon 24/7
 http://bgapp.live/play/14-533.php?c=420&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 1
-http://bgapp.live/play/14-533.php?c=847&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 10
-http://bgapp.live/play/14-533.php?c=856&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 11
-http://bgapp.live/play/14-533.php?c=858&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 12
-http://bgapp.live/play/14-533.php?c=859&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 13
-http://bgapp.live/play/14-533.php?c=860&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 14
-http://bgapp.live/play/14-533.php?c=862&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 15
-http://bgapp.live/play/14-533.php?c=863&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 16
-http://bgapp.live/play/14-533.php?c=864&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 17
-http://bgapp.live/play/14-533.php?c=865&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 18
-http://bgapp.live/play/14-533.php?c=866&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 19
-http://bgapp.live/play/14-533.php?c=861&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 2
-http://bgapp.live/play/14-533.php?c=848&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 20
-http://bgapp.live/play/14-533.php?c=867&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 21
-http://bgapp.live/play/14-533.php?c=868&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 22
-http://bgapp.live/play/14-533.php?c=869&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 23
-http://bgapp.live/play/14-533.php?c=870&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 24
-http://bgapp.live/play/14-533.php?c=871&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 25
-http://bgapp.live/play/14-533.php?c=873&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 26
-http://bgapp.live/play/14-533.php?c=874&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 27
-http://bgapp.live/play/14-533.php?c=876&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 28
-http://bgapp.live/play/14-533.php?c=875&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 29
-http://bgapp.live/play/14-533.php?c=872&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 3
-http://bgapp.live/play/14-533.php?c=849&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 30
-http://bgapp.live/play/14-533.php?c=877&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 4
-http://bgapp.live/play/14-533.php?c=850&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 5
-http://bgapp.live/play/14-533.php?c=851&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 6
-http://bgapp.live/play/14-533.php?c=852&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 7
-http://bgapp.live/play/14-533.php?c=853&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 8
-http://bgapp.live/play/14-533.php?c=854&token=blaccccckghoost&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="ENTRETENCIÓN", PPV 9
-http://bgapp.live/play/14-533.php?c=855&token=blaccccckghoost&f=.m3u8
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/prisonbreak.png" group-title="24/7", Prison Break 24/7
 http://bgapp.live/play/14-533.php?c=884&token=blaccccckghoost&f=.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pxtv.png" group-title="DEPORTES", PX TV
