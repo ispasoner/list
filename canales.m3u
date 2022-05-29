@@ -1,6 +1,285 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 
 
+#EXTINF:-1 group-title="Lista 01", UNIVISION
+http://bgapp.live/play/zufree-559.php?c=1.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", CANAL FOX
+http://bgapp.live/play/zufree-559.php?c=2.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", FX
+http://bgapp.live/play/zufree-559.php?c=3.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", A&E LATINO
+http://bgapp.live/play/zufree-559.php?c=4.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", FOX LIFE
+http://bgapp.live/play/zufree-559.php?c=5.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", TBS
+http://bgapp.live/play/zufree-559.php?c=6.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", SYFY
+http://bgapp.live/play/zufree-559.php?c=7.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", AXN
+http://bgapp.live/play/zufree-559.php?c=8.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", UNIVERSAL
+http://bgapp.live/play/zufree-559.php?c=9.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", Warner
+http://bgapp.live/play/zufree-559.php?c=10.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", SONY
+http://bgapp.live/play/zufree-559.php?c=11.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", STUDIO UNIVERSAL
+http://bgapp.live/play/zufree-559.php?c=12.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", TNT SERIES
+http://bgapp.live/play/zufree-559.php?c=13.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", E!
+http://bgapp.live/play/zufree-559.php?c=14.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", COMEDY CENTRAL
+http://bgapp.live/play/zufree-559.php?c=15.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", HISTORY CHANNEL
+http://bgapp.live/play/zufree-559.php?c=16.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", NATIONAL GEOGRAPHIC
+http://bgapp.live/play/zufree-559.php?c=17.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", DISCOVERY CHANNEL
+http://bgapp.live/play/zufree-559.php?c=18.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", ANIMAL PLANET
+http://bgapp.live/play/zufree-559.php?c=19.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", NICK JR
+http://bgapp.live/play/zufree-559.php?c=20.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", DISCOVERY KIDS
+http://bgapp.live/play/zufree-559.php?c=21.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", DISNEY JUNIOR
+http://bgapp.live/play/zufree-559.php?c=22.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", NICKELODEON
+http://bgapp.live/play/zufree-559.php?c=23.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", DISNEY CHANNEL
+http://bgapp.live/play/zufree-559.php?c=25.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", ESPN 3
+http://bgapp.live/play/zufree-559.php?c=26.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", ESPN 2
+http://bgapp.live/play/zufree-559.php?c=27.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", ESPN
+http://bgapp.live/play/zufree-559.php?c=28.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", CLARO SPORT
+http://bgapp.live/play/zufree-559.php?c=29.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", HOLA TV
+http://bgapp.live/play/zufree-559.php?c=30.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", CINE - TNT
+http://bgapp.live/play/zufree-559.php?c=31.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", CINE - HBO 2
+http://bgapp.live/play/zufree-559.php?c=32.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", CINE - HBO FAMILY
+http://bgapp.live/play/zufree-559.php?c=33.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", CINE - HBO XTREME
+http://bgapp.live/play/zufree-559.php?c=35.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", BABY TV
+http://bgapp.live/play/zufree-559.php?c=36.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", BOORMERANG MX
+http://bgapp.live/play/zufree-559.php?c=37.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", ESPN DEPORTES
+http://bgapp.live/play/zufree-559.php?c=39.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", NET GEO
+http://bgapp.live/play/zufree-559.php?c=40.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", CINE -SPACE MX
+http://bgapp.live/play/zufree-559.php?c=41.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", MUSICA -MTV HITLIST
+http://bgapp.live/play/zufree-559.php?c=42.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", MUSICA - MTV
+http://bgapp.live/play/zufree-559.php?c=43.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", MUSICA - VH1
+http://bgapp.live/play/zufree-559.php?c=44.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", MUSICA -VIDEO ROLA
+http://bgapp.live/play/zufree-559.php?c=45.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", USA -FOODN
+http://bgapp.live/play/zufree-559.php?c=46.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", USA -DISCOVERY FAMILY
+http://bgapp.live/play/zufree-559.php?c=47.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", USA - BRAVO TV
+http://bgapp.live/play/zufree-559.php?c=48.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", NOTICIA - CNN
+http://bgapp.live/play/zufree-559.php?c=49.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", ATRES
+http://bgapp.live/play/zufree-559.php?c=50.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", MEXICO - AZTECA 7
+http://bgapp.live/play/zufree-559.php?c=51.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", MEXICO - IMAGEN
+http://bgapp.live/play/zufree-559.php?c=52.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", MEXICO - CANAL 22
+http://bgapp.live/play/zufree-559.php?c=53.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", MEXICO - ONCE TV MX
+http://bgapp.live/play/zufree-559.php?c=54.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", MLB
+http://bgapp.live/play/zufree-559.php?c=55.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", NBA
+http://bgapp.live/play/zufree-559.php?c=56.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", FOX SPORT 3
+http://bgapp.live/play/zufree-559.php?c=57.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", [HD:]  ESPN 1
+http://bgapp.live/play/zufree-559.php?c=58.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", [HD:] ESPN EXTRA
+http://bgapp.live/play/zufree-559.php?c=59.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", [HD:] ESPN 2
+http://bgapp.live/play/zufree-559.php?c=60.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", [HD:] MEXICO - MULTIMEDIOS MTY
+http://bgapp.live/play/zufree-559.php?c=61.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", NOTICIA - EL FINANCIERO
+http://bgapp.live/play/zufree-559.php?c=62.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", NOTICIA - DW
+http://bgapp.live/play/zufree-559.php?c=63.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", CINE - CINEMAX
+http://bgapp.live/play/zufree-559.php?c=65.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", CINE - CINECANAL
+http://bgapp.live/play/zufree-559.php?c=66.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", CINE - CINE LATINO
+http://bgapp.live/play/zufree-559.php?c=68.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", ISAT
+http://bgapp.live/play/zufree-559.php?c=69.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", CINE - PARAMOOUNT
+http://bgapp.live/play/zufree-559.php?c=70.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", ENTRETE -PASIONES
+http://bgapp.live/play/zufree-559.php?c=72.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", CINE - GOLDEN PREMIER
+http://bgapp.live/play/zufree-559.php?c=73.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", CINE - FOX ACCION
+http://bgapp.live/play/zufree-559.php?c=74.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", CINE - HBO 1
+http://bgapp.live/play/zufree-559.php?c=80.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", CINE - HBO Plus
+http://bgapp.live/play/zufree-559.php?c=81.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", MEXICO - AZTECA UNO
+http://bgapp.live/play/zufree-559.php?c=82.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", ENTRE - LIFETIME
+http://bgapp.live/play/zufree-559.php?c=83.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", [HD:] ENTRE - UNICABLE
+http://bgapp.live/play/zufree-559.php?c=84.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", ENTRE - UNIMAS
+http://bgapp.live/play/zufree-559.php?c=85.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", ENTRE - GALAVISION
+http://bgapp.live/play/zufree-559.php?c=86.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", CINE - MC
+http://bgapp.live/play/zufree-559.php?c=87.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", CINE - MULTIPREMIER
+http://bgapp.live/play/zufree-559.php?c=88.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", ENTRE - TELENOVELA PR
+http://bgapp.live/play/zufree-559.php?c=89.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", DISCOVERY TURBO
+http://bgapp.live/play/zufree-559.php?c=90.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", DISCOVERY H&H
+http://bgapp.live/play/zufree-559.php?c=91.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", DISCOVERY ID
+http://bgapp.live/play/zufree-559.php?c=92.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", DISCOVERY TLC
+http://bgapp.live/play/zufree-559.php?c=93.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", [HD:] DISCOVERY THEATER
+http://bgapp.live/play/zufree-559.php?c=94.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", H2
+http://bgapp.live/play/zufree-559.php?c=95.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", MEXICO - CANAL 5 SD
+http://bgapp.live/play/zufree-559.php?c=96.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", MEXICO - LAS ESTRELLAS
+http://bgapp.live/play/zufree-559.php?c=97.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", USA - UNIVERSO
+http://bgapp.live/play/zufree-559.php?c=99.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", BEIN SPORT 720 HD
+http://bgapp.live/play/zufree-559.php?c=100.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", USA - NBCSN
+http://bgapp.live/play/zufree-559.php?c=101.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", FOX SPORT  premium mx
+http://bgapp.live/play/zufree-559.php?c=102.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", FOX SPORT 2
+http://bgapp.live/play/zufree-559.php?c=103.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", [HD:] ESPN 3
+http://bgapp.live/play/zufree-559.php?c=104.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", SD:] FILM ART
+http://bgapp.live/play/zufree-559.php?c=106.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", CINE - MULTICINEMA
+http://bgapp.live/play/zufree-559.php?c=107.m3u8&blck
+#EXTINF:-1 group-title="Lista 01", *TNT SPORT 2 MX HBO MAX HD
+http://bgapp.live/play/zufree-559.php?c=108.m3u8&blck
+
+
+#EXTINF:-1 group-title="Lista 02",A&E HD
+http://45.7.133.234:58002/play/a06v/index.m3u8
+#EXTINF:-1 group-title="Lista 02",AMC HD
+http://45.7.133.234:58002/play/a06w/index.m3u8
+#EXTINF:-1 group-title="Lista 02",Animal Planet HD
+http://45.7.133.234:58002/play/a06t/index.m3u8
+#EXTINF:-1 group-title="Lista 02",Baby TV
+http://45.7.133.234:58002/play/a081/index.m3u8
+#EXTINF:-1 group-title="Lista 02",CARACOL LOCAL
+http://45.7.133.234:58002/play/a08e/index.m3u8
+#EXTINF:-1 group-title="Lista 02",CARTOON NT HD
+http://45.7.133.234:58002/play/a05j/index.m3u8
+#EXTINF:-1 group-title="Lista 02",CINECANAL HD
+http://45.7.133.234:58002/play/a074/index.m3u8
+#EXTINF:-1 group-title="Lista 02",Canales
+http://45.7.133.234:58002/play/a08i/index.m3u8
+#EXTINF:-1 group-title="Lista 02",Comedy Central HD
+http://45.7.133.234:58002/play/a079/index.m3u8
+#EXTINF:-1 group-title="Lista 02",DHE HD
+http://45.7.133.234:58002/play/a06z/index.m3u8
+#EXTINF:-1 group-title="Lista 02",DISC THEATHER HD
+http://45.7.133.234:58002/play/a077/index.m3u8
+#EXTINF:-1 group-title="Lista 02",Discovery Channel HD
+http://45.7.133.234:58002/play/a07i/index.m3u8
+#EXTINF:-1 group-title="Lista 02",Discovery Kids HD
+http://45.7.133.234:58002/play/a080/index.m3u8
+#EXTINF:-1 group-title="Lista 02",Discovery World HD
+http://45.7.133.234:58002/play/a07j/index.m3u8
+#EXTINF:-1 group-title="Lista 02",E! Entertairment HD
+http://45.7.133.234:58002/play/a06u/index.m3u8
+#EXTINF:-1 group-title="Lista 02",ESPN 4 HD
+http://45.7.133.234:58002/play/a07r/index.m3u8
+#EXTINF:-1 group-title="Lista 02",ESPN HD
+http://45.7.133.234:58002/play/a07/index.m3u8
+#EXTINF:-1 group-title="Lista 02",FOX SPORTS 2 HD
+http://45.7.133.234:58002/play/a075/index.m3u8
+#EXTINF:-1 group-title="Lista 02",FOX SPORTS 3 HD
+http://45.7.133.234:58002/play/a07e/index.m3u8
+#EXTINF:-1 group-title="Lista 02",FX HD
+http://45.7.133.234:58002/play/a07t/index.m3u8
+#EXTINF:-1 group-title="Lista 02",HISTORY 2 WEB
+http://45.7.133.234:58002/play/a08j/index.m3u8
+#EXTINF:-1 group-title="Lista 02",History HD
+http://45.7.133.234:58002/play/a06o/index.m3u8
+#EXTINF:-1 group-title="Lista 02",Home & Health HD
+http://45.7.133.234:58002/play/a078/index.m3u8
+#EXTINF:-1 group-title="Lista 02",Home Garden Latino
+http://45.7.133.234:58002/play/a082/index.m3u8
+#EXTINF:-1 group-title="Lista 02",MTV HD
+http://45.7.133.234:58002/play/a06p/index.m3u8
+#EXTINF:-1 group-title="Lista 02",Nat Geo HD
+http://45.7.133.234:58002/play/a07f/index.m3u8
+#EXTINF:-1 group-title="Lista 02",Paramount HD
+http://45.7.133.234:58002/play/a07g/index.m3u8
+#EXTINF:-1 group-title="Lista 02",Pasiones HD
+http://45.7.133.234:58002/play/a07k/index.m3u8
+#EXTINF:-1 group-title="Lista 02",RCN LOCAL 1 group-title="Lista 02"
+http://45.7.133.234:58002/play/a08d/index.m3u8
+#EXTINF:-1 group-title="Lista 02",SONY HD
+http://45.7.133.234:58002/play/a073/index.m3u8
+#EXTINF:-1 group-title="Lista 02",SPACE HD
+http://45.7.133.234:58002/play/a07w/index.m3u8
+#EXTINF:-1 group-title="Lista 02",STAR CHANNEL HD
+http://45.7.133.234:58002/play/a071/index.m3u8
+#EXTINF:-1 group-title="Lista 02",Studio Universal HD
+http://45.7.133.234:58002/play/a06r/index.m3u8
+#EXTINF:-1 group-title="Lista 02",SyFy HD
+http://45.7.133.234:58002/play/a06s/index.m3u8
+#EXTINF:-1 group-title="Lista 02",TELE NOVELAS
+http://45.7.133.234:58002/play/a08a/index.m3u8
+#EXTINF:-1 group-title="Lista 02",TNT HD
+http://45.7.133.234:58002/play/a076/index.m3u8
+#EXTINF:-1 group-title="Lista 02",TNT Series HD
+http://45.7.133.234:58002/play/a07h/index.m3u8
+#EXTINF:-1 group-title="Lista 02",Teen Nick HD
+http://45.7.133.234:58002/play/a06q/index.m3u8
+#EXTINF:-1 group-title="Lista 02",Telemundo HD
+http://45.7.133.234:58002/play/a06x/index.m3u8
+#EXTINF:-1 group-title="Lista 02",Universal
+http://45.7.133.234:58002/play/a07y/index.m3u8
+#EXTINF:-1 group-title="Lista 02",WARNER HD
+http://45.7.133.234:58002/play/a072/index.m3u8
+#EXTINF:-1 group-title="Lista 02",aa
+http://45.7.133.234:58002/play/a08h/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Lista 03", Ben 10
 http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=8357
 #EXTINF:-1 group-title="Lista 03", Animaniacs
@@ -613,286 +892,11 @@ http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12293
 
 
 
-#EXTINF:-1,A&E HD
-http://45.7.133.234:58002/play/a06v/index.m3u8
-#EXTINF:-1,AMC HD
-http://45.7.133.234:58002/play/a06w/index.m3u8
-#EXTINF:-1,Animal Planet HD
-http://45.7.133.234:58002/play/a06t/index.m3u8
-#EXTINF:-1,Baby TV
-http://45.7.133.234:58002/play/a081/index.m3u8
-#EXTINF:-1,CARACOL LOCAL
-http://45.7.133.234:58002/play/a08e/index.m3u8
-#EXTINF:-1,CARTOON NT HD
-http://45.7.133.234:58002/play/a05j/index.m3u8
-#EXTINF:-1,CINECANAL HD
-http://45.7.133.234:58002/play/a074/index.m3u8
-#EXTINF:-1,Canales
-http://45.7.133.234:58002/play/a08i/index.m3u8
-#EXTINF:-1,Comedy Central HD
-http://45.7.133.234:58002/play/a079/index.m3u8
-#EXTINF:-1,DHE HD
-http://45.7.133.234:58002/play/a06z/index.m3u8
-#EXTINF:-1,DISC THEATHER HD
-http://45.7.133.234:58002/play/a077/index.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://45.7.133.234:58002/play/a07i/index.m3u8
-#EXTINF:-1,Discovery Kids HD
-http://45.7.133.234:58002/play/a080/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://45.7.133.234:58002/play/a07j/index.m3u8
-#EXTINF:-1,E! Entertairment HD
-http://45.7.133.234:58002/play/a06u/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://45.7.133.234:58002/play/a07r/index.m3u8
-#EXTINF:-1,ESPN HD
-http://45.7.133.234:58002/play/a07/index.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-http://45.7.133.234:58002/play/a075/index.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD
-http://45.7.133.234:58002/play/a07e/index.m3u8
-#EXTINF:-1,FX HD
-http://45.7.133.234:58002/play/a07t/index.m3u8
-#EXTINF:-1,HISTORY 2 WEB
-http://45.7.133.234:58002/play/a08j/index.m3u8
-#EXTINF:-1,History HD
-http://45.7.133.234:58002/play/a06o/index.m3u8
-#EXTINF:-1,Home & Health HD
-http://45.7.133.234:58002/play/a078/index.m3u8
-#EXTINF:-1,Home Garden Latino
-http://45.7.133.234:58002/play/a082/index.m3u8
-#EXTINF:-1,MTV HD
-http://45.7.133.234:58002/play/a06p/index.m3u8
-#EXTINF:-1,Nat Geo HD
-http://45.7.133.234:58002/play/a07f/index.m3u8
-#EXTINF:-1,Paramount HD
-http://45.7.133.234:58002/play/a07g/index.m3u8
-#EXTINF:-1,Pasiones HD
-http://45.7.133.234:58002/play/a07k/index.m3u8
-#EXTINF:-1,RCN LOCAL 1
-http://45.7.133.234:58002/play/a08d/index.m3u8
-#EXTINF:-1,SONY HD
-http://45.7.133.234:58002/play/a073/index.m3u8
-#EXTINF:-1,SPACE HD
-http://45.7.133.234:58002/play/a07w/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://45.7.133.234:58002/play/a071/index.m3u8
-#EXTINF:-1,Studio Universal HD
-http://45.7.133.234:58002/play/a06r/index.m3u8
-#EXTINF:-1,SyFy HD
-http://45.7.133.234:58002/play/a06s/index.m3u8
-#EXTINF:-1,TELE NOVELAS
-http://45.7.133.234:58002/play/a08a/index.m3u8
-#EXTINF:-1,TNT HD
-http://45.7.133.234:58002/play/a076/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://45.7.133.234:58002/play/a07h/index.m3u8
-#EXTINF:-1,Teen Nick HD
-http://45.7.133.234:58002/play/a06q/index.m3u8
-#EXTINF:-1,Telemundo HD
-http://45.7.133.234:58002/play/a06x/index.m3u8
-#EXTINF:-1,Universal
-http://45.7.133.234:58002/play/a07y/index.m3u8
-#EXTINF:-1,WARNER HD
-http://45.7.133.234:58002/play/a072/index.m3u8
-#EXTINF:-1,aa
-http://45.7.133.234:58002/play/a08h/index.m3u8
 
 
 
 
 
-#EXTM3U
-#EXTINF:-1 group-title="Lista 03", UNIVISION
-http://bgapp.live/play/zufree-559.php?c=1.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", CANAL FOX
-http://bgapp.live/play/zufree-559.php?c=2.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", FX
-http://bgapp.live/play/zufree-559.php?c=3.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", A&E LATINO
-http://bgapp.live/play/zufree-559.php?c=4.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", FOX LIFE
-http://bgapp.live/play/zufree-559.php?c=5.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", TBS
-http://bgapp.live/play/zufree-559.php?c=6.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", SYFY
-http://bgapp.live/play/zufree-559.php?c=7.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", AXN
-http://bgapp.live/play/zufree-559.php?c=8.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", UNIVERSAL
-http://bgapp.live/play/zufree-559.php?c=9.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", Warner
-http://bgapp.live/play/zufree-559.php?c=10.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", SONY
-http://bgapp.live/play/zufree-559.php?c=11.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", STUDIO UNIVERSAL
-http://bgapp.live/play/zufree-559.php?c=12.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", TNT SERIES
-http://bgapp.live/play/zufree-559.php?c=13.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", E!
-http://bgapp.live/play/zufree-559.php?c=14.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", COMEDY CENTRAL
-http://bgapp.live/play/zufree-559.php?c=15.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", HISTORY CHANNEL
-http://bgapp.live/play/zufree-559.php?c=16.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", NATIONAL GEOGRAPHIC
-http://bgapp.live/play/zufree-559.php?c=17.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", DISCOVERY CHANNEL
-http://bgapp.live/play/zufree-559.php?c=18.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", ANIMAL PLANET
-http://bgapp.live/play/zufree-559.php?c=19.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", NICK JR
-http://bgapp.live/play/zufree-559.php?c=20.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", DISCOVERY KIDS
-http://bgapp.live/play/zufree-559.php?c=21.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", DISNEY JUNIOR
-http://bgapp.live/play/zufree-559.php?c=22.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", NICKELODEON
-http://bgapp.live/play/zufree-559.php?c=23.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", DISNEY CHANNEL
-http://bgapp.live/play/zufree-559.php?c=25.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", ESPN 3
-http://bgapp.live/play/zufree-559.php?c=26.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", ESPN 2
-http://bgapp.live/play/zufree-559.php?c=27.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", ESPN
-http://bgapp.live/play/zufree-559.php?c=28.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", CLARO SPORT
-http://bgapp.live/play/zufree-559.php?c=29.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", HOLA TV
-http://bgapp.live/play/zufree-559.php?c=30.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", CINE - TNT
-http://bgapp.live/play/zufree-559.php?c=31.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", CINE - HBO 2
-http://bgapp.live/play/zufree-559.php?c=32.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", CINE - HBO FAMILY
-http://bgapp.live/play/zufree-559.php?c=33.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", CINE - HBO XTREME
-http://bgapp.live/play/zufree-559.php?c=35.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", BABY TV
-http://bgapp.live/play/zufree-559.php?c=36.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", BOORMERANG MX
-http://bgapp.live/play/zufree-559.php?c=37.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", ESPN DEPORTES
-http://bgapp.live/play/zufree-559.php?c=39.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", NET GEO
-http://bgapp.live/play/zufree-559.php?c=40.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", CINE -SPACE MX
-http://bgapp.live/play/zufree-559.php?c=41.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", MUSICA -MTV HITLIST
-http://bgapp.live/play/zufree-559.php?c=42.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", MUSICA - MTV
-http://bgapp.live/play/zufree-559.php?c=43.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", MUSICA - VH1
-http://bgapp.live/play/zufree-559.php?c=44.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", MUSICA -VIDEO ROLA
-http://bgapp.live/play/zufree-559.php?c=45.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", USA -FOODN
-http://bgapp.live/play/zufree-559.php?c=46.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", USA -DISCOVERY FAMILY
-http://bgapp.live/play/zufree-559.php?c=47.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", USA - BRAVO TV
-http://bgapp.live/play/zufree-559.php?c=48.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", NOTICIA - CNN
-http://bgapp.live/play/zufree-559.php?c=49.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", ATRES
-http://bgapp.live/play/zufree-559.php?c=50.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", MEXICO - AZTECA 7
-http://bgapp.live/play/zufree-559.php?c=51.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", MEXICO - IMAGEN
-http://bgapp.live/play/zufree-559.php?c=52.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", MEXICO - CANAL 22
-http://bgapp.live/play/zufree-559.php?c=53.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", MEXICO - ONCE TV MX
-http://bgapp.live/play/zufree-559.php?c=54.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", MLB
-http://bgapp.live/play/zufree-559.php?c=55.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", NBA
-http://bgapp.live/play/zufree-559.php?c=56.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", FOX SPORT 3
-http://bgapp.live/play/zufree-559.php?c=57.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", [HD:]  ESPN 1
-http://bgapp.live/play/zufree-559.php?c=58.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", [HD:] ESPN EXTRA
-http://bgapp.live/play/zufree-559.php?c=59.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", [HD:] ESPN 2
-http://bgapp.live/play/zufree-559.php?c=60.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", [HD:] MEXICO - MULTIMEDIOS MTY
-http://bgapp.live/play/zufree-559.php?c=61.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", NOTICIA - EL FINANCIERO
-http://bgapp.live/play/zufree-559.php?c=62.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", NOTICIA - DW
-http://bgapp.live/play/zufree-559.php?c=63.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", CINE - CINEMAX
-http://bgapp.live/play/zufree-559.php?c=65.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", CINE - CINECANAL
-http://bgapp.live/play/zufree-559.php?c=66.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", CINE - CINE LATINO
-http://bgapp.live/play/zufree-559.php?c=68.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", ISAT
-http://bgapp.live/play/zufree-559.php?c=69.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", CINE - PARAMOOUNT
-http://bgapp.live/play/zufree-559.php?c=70.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", ENTRETE -PASIONES
-http://bgapp.live/play/zufree-559.php?c=72.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", CINE - GOLDEN PREMIER
-http://bgapp.live/play/zufree-559.php?c=73.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", CINE - FOX ACCION
-http://bgapp.live/play/zufree-559.php?c=74.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", CINE - HBO 1
-http://bgapp.live/play/zufree-559.php?c=80.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", CINE - HBO Plus
-http://bgapp.live/play/zufree-559.php?c=81.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", MEXICO - AZTECA UNO
-http://bgapp.live/play/zufree-559.php?c=82.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", ENTRE - LIFETIME
-http://bgapp.live/play/zufree-559.php?c=83.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", [HD:] ENTRE - UNICABLE
-http://bgapp.live/play/zufree-559.php?c=84.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", ENTRE - UNIMAS
-http://bgapp.live/play/zufree-559.php?c=85.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", ENTRE - GALAVISION
-http://bgapp.live/play/zufree-559.php?c=86.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", CINE - MC
-http://bgapp.live/play/zufree-559.php?c=87.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", CINE - MULTIPREMIER
-http://bgapp.live/play/zufree-559.php?c=88.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", ENTRE - TELENOVELA PR
-http://bgapp.live/play/zufree-559.php?c=89.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", DISCOVERY TURBO
-http://bgapp.live/play/zufree-559.php?c=90.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", DISCOVERY H&H
-http://bgapp.live/play/zufree-559.php?c=91.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", DISCOVERY ID
-http://bgapp.live/play/zufree-559.php?c=92.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", DISCOVERY TLC
-http://bgapp.live/play/zufree-559.php?c=93.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", [HD:] DISCOVERY THEATER
-http://bgapp.live/play/zufree-559.php?c=94.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", H2
-http://bgapp.live/play/zufree-559.php?c=95.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", MEXICO - CANAL 5 SD
-http://bgapp.live/play/zufree-559.php?c=96.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", MEXICO - LAS ESTRELLAS
-http://bgapp.live/play/zufree-559.php?c=97.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", USA - UNIVERSO
-http://bgapp.live/play/zufree-559.php?c=99.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", BEIN SPORT 720 HD
-http://bgapp.live/play/zufree-559.php?c=100.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", USA - NBCSN
-http://bgapp.live/play/zufree-559.php?c=101.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", FOX SPORT  premium mx
-http://bgapp.live/play/zufree-559.php?c=102.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", FOX SPORT 2
-http://bgapp.live/play/zufree-559.php?c=103.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", [HD:] ESPN 3
-http://bgapp.live/play/zufree-559.php?c=104.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", SD:] FILM ART
-http://bgapp.live/play/zufree-559.php?c=106.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", CINE - MULTICINEMA
-http://bgapp.live/play/zufree-559.php?c=107.m3u8&blck
-#EXTINF:-1 group-title="Lista 03", *TNT SPORT 2 MX HBO MAX HD
-http://bgapp.live/play/zufree-559.php?c=108.m3u8&blck
 
 
 
