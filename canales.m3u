@@ -1,4 +1,903 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
+
+
+#EXTINF:-1 group-title="Lista 03", Ben 10
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=8357
+#EXTINF:-1 group-title="Lista 03", Animaniacs
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=8356
+#EXTINF:-1 group-title="Lista 03", El Chavo 24/7
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=6799
+#EXTINF:-1 group-title="Lista 03", Los Simpsons 2 24/7
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=6800
+#EXTINF:-1 group-title="Lista 03", ALF 24/7
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=6802
+#EXTINF:-1 group-title="Lista 03", Los Simpsons 24/7
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=6801
+#EXTINF:-1 group-title="Lista 03", Caillou
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=6797
+#EXTINF:-1 group-title="Lista 03", Angry Birds
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=6796
+#EXTINF:-1 group-title="Lista 03", Alf 2 24/7
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=6803
+#EXTINF:-1 group-title="Lista 03", Bob Esponja 24/7
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=6804
+#EXTINF:-1 group-title="Lista 03", CANTINFLAS 24/7
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=6805
+#EXTINF:-1 group-title="Lista 03", Doraemon 24/7
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=6806
+#EXTINF:-1 group-title="Lista 03", El Pajaro Loco 24/7
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=6807
+#EXTINF:-1 group-title="Lista 03", Naruto 24/7
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=6808
+#EXTINF:-1 group-title="Lista 03", A3 Series
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12003
+#EXTINF:-1 group-title="Lista 03", A&E
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12004
+#EXTINF:-1 group-title="Lista 03", ADN 40
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12005
+#EXTINF:-1 group-title="Lista 03", AMC
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12006
+#EXTINF:-1 group-title="Lista 03", Animal Planet
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12007
+#EXTINF:-1 group-title="Lista 03", Antena 3
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12008
+#EXTINF:-1 group-title="Lista 03", A+
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12009
+#EXTINF:-1 group-title="Lista 03", AXN
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12010
+#EXTINF:-1 group-title="Lista 03", AyM Sports
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12011
+#EXTINF:-1 group-title="Lista 03", Az Cinema
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12012
+#EXTINF:-1 group-title="Lista 03", Az Clic
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12013
+#EXTINF:-1 group-title="Lista 03", Az Corazon
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12014
+#EXTINF:-1 group-title="Lista 03", Az Mundo
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12015
+#EXTINF:-1 group-title="Lista 03", Azteca 7
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12016
+#EXTINF:-1 group-title="Lista 03", Azteca UNO
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12017
+#EXTINF:-1 group-title="Lista 03", Baby TV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12018
+#EXTINF:-1 group-title="Lista 03", Bandamax
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12019
+#EXTINF:-1 group-title="Lista 03", BitMe
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12020
+#EXTINF:-1 group-title="Lista 03", Boomerang
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12021
+#EXTINF:-1 group-title="Lista 03", Canal 11
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12022
+#EXTINF:-1 group-title="Lista 03", Canal 5
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12023
+#EXTINF:-1 group-title="Lista 03", Cartoon Network
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12024
+#EXTINF:-1 group-title="Lista 03", Cinecanal
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12025
+#EXTINF:-1 group-title="Lista 03", Cinemax
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12026
+#EXTINF:-1 group-title="Lista 03", CNN en Espanol
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12027
+#EXTINF:-1 group-title="Lista 03", CNN USA
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12028
+#EXTINF:-1 group-title="Lista 03", Comedy Central
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12029
+#EXTINF:-1 group-title="Lista 03", De Pelicula
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12030
+#EXTINF:-1 group-title="Lista 03", De Pelicula Clasico
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12031
+#EXTINF:-1 group-title="Lista 03", De Pelicula Plus
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12032
+#EXTINF:-1 group-title="Lista 03", Discovery Channel
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12033
+#EXTINF:-1 group-title="Lista 03", Discovery H&H
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12034
+#EXTINF:-1 group-title="Lista 03", Investigation Discovery
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12035
+#EXTINF:-1 group-title="Lista 03", Discovery KIDS
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12036
+#EXTINF:-1 group-title="Lista 03", Discovery Science
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12037
+#EXTINF:-1 group-title="Lista 03", Discovery Theater
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12038
+#EXTINF:-1 group-title="Lista 03", Discovery TLC
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12039
+#EXTINF:-1 group-title="Lista 03", Discovery Turbo
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12040
+#EXTINF:-1 group-title="Lista 03", Discovery World
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12041
+#EXTINF:-1 group-title="Lista 03", Disney Channel
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12042
+#EXTINF:-1 group-title="Lista 03", Disney Junior
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12043
+#EXTINF:-1 group-title="Lista 03", Distrito Comedia
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12044
+#EXTINF:-1 group-title="Lista 03", DW
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12045
+#EXTINF:-1 group-title="Lista 03", E!
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12046
+#EXTINF:-1 group-title="Lista 03", El Gourmet
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12047
+#EXTINF:-1 group-title="Lista 03", ESPN +
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12048
+#EXTINF:-1 group-title="Lista 03", ESPN 1
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12049
+#EXTINF:-1 group-title="Lista 03", ESPN 2
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12050
+#EXTINF:-1 group-title="Lista 03", ESPN 3
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12051
+#EXTINF:-1 group-title="Lista 03", ESPN U
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12052
+#EXTINF:-1 group-title="Lista 03", Film & Arts
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12053
+#EXTINF:-1 group-title="Lista 03", Food Network
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12054
+#EXTINF:-1 group-title="Lista 03", Foro TV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12055
+#EXTINF:-1 group-title="Lista 03", FOX (Star Channel)
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12056
+#EXTINF:-1 group-title="Lista 03", FOX Sports 1
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12057
+#EXTINF:-1 group-title="Lista 03", FOX Sports 2
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12058
+#EXTINF:-1 group-title="Lista 03", FOX Sports 3
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12059
+#EXTINF:-1 group-title="Lista 03", FX
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12060
+#EXTINF:-1 group-title="Lista 03", Canal 9 (Gala TV)
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12061
+#EXTINF:-1 group-title="Lista 03", Garage TV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12062
+#EXTINF:-1 group-title="Lista 03", Glitz
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12063
+#EXTINF:-1 group-title="Lista 03", Golden
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12064
+#EXTINF:-1 group-title="Lista 03", Golden EDGE
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12065
+#EXTINF:-1 group-title="Lista 03", Golden Plus
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12066
+#EXTINF:-1 group-title="Lista 03", Golden Premier
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12067
+#EXTINF:-1 group-title="Lista 03", Golf Channel Latinoamerica
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12068
+#EXTINF:-1 group-title="Lista 03", HGTV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12069
+#EXTINF:-1 group-title="Lista 03", History
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12070
+#EXTINF:-1 group-title="Lista 03", Hola TV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12071
+#EXTINF:-1 group-title="Lista 03", Imagen Television
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12072
+#EXTINF:-1 group-title="Lista 03", Ingenio TV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12073
+#EXTINF:-1 group-title="Lista 03", I.Sat
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12074
+#EXTINF:-1 group-title="Lista 03", Las Estrellas
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12075
+#EXTINF:-1 group-title="Lista 03", Lifetime
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12076
+#EXTINF:-1 group-title="Lista 03", Mas chic
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12077
+#EXTINF:-1 group-title="Lista 03", Mexiquense TV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12078
+#EXTINF:-1 group-title="Lista 03", Milenio
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12079
+#EXTINF:-1 group-title="Lista 03", MTV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12080
+#EXTINF:-1 group-title="Lista 03", MTV Hits
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12081
+#EXTINF:-1 group-title="Lista 03", MTV Live
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12082
+#EXTINF:-1 group-title="Lista 03", Multimedios Plus
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12083
+#EXTINF:-1 group-title="Lista 03", NatGeo
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12084
+#EXTINF:-1 group-title="Lista 03", Nickelodeon
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12085
+#EXTINF:-1 group-title="Lista 03", Nick 2 (TeenNick)
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12086
+#EXTINF:-1 group-title="Lista 03", Nick JR
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12087
+#EXTINF:-1 group-title="Lista 03", Nicktoons
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12088
+#EXTINF:-1 group-title="Lista 03", Outdoor Channel
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12089
+#EXTINF:-1 group-title="Lista 03", Paramount Channel
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12090
+#EXTINF:-1 group-title="Lista 03", Telehit Urbano (Telehit Musica)
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12091
+#EXTINF:-1 group-title="Lista 03", RT en Español
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12092
+#EXTINF:-1 group-title="Lista 03", Sony
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12093
+#EXTINF:-1 group-title="Lista 03", Space
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12094
+#EXTINF:-1 group-title="Lista 03", Studio Universal
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12095
+#EXTINF:-1 group-title="Lista 03", Sundance Channel
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12096
+#EXTINF:-1 group-title="Lista 03", SyFy
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12097
+#EXTINF:-1 group-title="Lista 03", TBS
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12098
+#EXTINF:-1 group-title="Lista 03", TCM
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12099
+#EXTINF:-1 group-title="Lista 03", Teleformula
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12100
+#EXTINF:-1 group-title="Lista 03", Telehit
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12101
+#EXTINF:-1 group-title="Lista 03", Telemundo Internacional
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12102
+#EXTINF:-1 group-title="Lista 03", Televisa Monterrey
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12103
+#EXTINF:-1 group-title="Lista 03", Tlnovelas
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12104
+#EXTINF:-1 group-title="Lista 03", TNT
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12105
+#EXTINF:-1 group-title="Lista 03", TNT Series
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12106
+#EXTINF:-1 group-title="Lista 03", Tooncast
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12107
+#EXTINF:-1 group-title="Lista 03", TruTV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12108
+#EXTINF:-1 group-title="Lista 03", TVC Deportes
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12109
+#EXTINF:-1 group-title="Lista 03", TVE
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12110
+#EXTINF:-1 group-title="Lista 03", Unicable
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12111
+#EXTINF:-1 group-title="Lista 03", Universal Channel
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12112
+#EXTINF:-1 group-title="Lista 03", VH1
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12113
+#EXTINF:-1 group-title="Lista 03", VH1 Classics
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12114
+#EXTINF:-1 group-title="Lista 03", Warner
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12115
+#EXTINF:-1 group-title="Lista 03", A+
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12116
+#EXTINF:-1 group-title="Lista 03", Azteca 7
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12117
+#EXTINF:-1 group-title="Lista 03", Azteca UNO
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12118
+#EXTINF:-1 group-title="Lista 03", Azteca Uno -2 Horas
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12119
+#EXTINF:-1 group-title="Lista 03", Canal 11
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12120
+#EXTINF:-1 group-title="Lista 03", Canal 22
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12121
+#EXTINF:-1 group-title="Lista 03", Canal 5
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12122
+#EXTINF:-1 group-title="Lista 03", Canal del Congreso
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12123
+#EXTINF:-1 group-title="Lista 03", JusticiaTV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12124
+#EXTINF:-1 group-title="Lista 03", Canal 9 (Gala TV)
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12125
+#EXTINF:-1 group-title="Lista 03", Imagen Television
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12126
+#EXTINF:-1 group-title="Lista 03", Ingenio TV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12127
+#EXTINF:-1 group-title="Lista 03", Las Estrellas
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12128
+#EXTINF:-1 group-title="Lista 03", Mexiquense TV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12129
+#EXTINF:-1 group-title="Lista 03", Multimedios Plus
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12130
+#EXTINF:-1 group-title="Lista 03", Multimedios MTY
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12131
+#EXTINF:-1 group-title="Lista 03", Teleformula
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12132
+#EXTINF:-1 group-title="Lista 03", Televisa Monterrey
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12133
+#EXTINF:-1 group-title="Lista 03", TVC
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12134
+#EXTINF:-1 group-title="Lista 03", RCN Nuestra Tele Internacional
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12135
+#EXTINF:-1 group-title="Lista 03", A3 Series
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12136
+#EXTINF:-1 group-title="Lista 03", A&E
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12137
+#EXTINF:-1 group-title="Lista 03", AMC
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12138
+#EXTINF:-1 group-title="Lista 03", Antena 3
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12139
+#EXTINF:-1 group-title="Lista 03", AXN
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12140
+#EXTINF:-1 group-title="Lista 03", Az Clic
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12141
+#EXTINF:-1 group-title="Lista 03", Az Corazon
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12142
+#EXTINF:-1 group-title="Lista 03", Az Mundo
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12143
+#EXTINF:-1 group-title="Lista 03", BitMe
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12144
+#EXTINF:-1 group-title="Lista 03", Caracol
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12145
+#EXTINF:-1 group-title="Lista 03", Comedy Central
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12146
+#EXTINF:-1 group-title="Lista 03", Distrito Comedia
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12147
+#EXTINF:-1 group-title="Lista 03", E!
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12148
+#EXTINF:-1 group-title="Lista 03", El Gourmet
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12149
+#EXTINF:-1 group-title="Lista 03", Estrella TV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12150
+#EXTINF:-1 group-title="Lista 03", Food Network
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12151
+#EXTINF:-1 group-title="Lista 03", FOX (Star Channel)
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12152
+#EXTINF:-1 group-title="Lista 03", FX
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12153
+#EXTINF:-1 group-title="Lista 03", Garage TV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12154
+#EXTINF:-1 group-title="Lista 03", Glitz
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12155
+#EXTINF:-1 group-title="Lista 03", Hola TV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12156
+#EXTINF:-1 group-title="Lista 03", Lifetime
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12157
+#EXTINF:-1 group-title="Lista 03", Mas Chic
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12158
+#EXTINF:-1 group-title="Lista 03", Pasiones
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12159
+#EXTINF:-1 group-title="Lista 03", RCN
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12160
+#EXTINF:-1 group-title="Lista 03", Sony
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12161
+#EXTINF:-1 group-title="Lista 03", TBS
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12162
+#EXTINF:-1 group-title="Lista 03", Telemundo Internacional
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12163
+#EXTINF:-1 group-title="Lista 03", Tlnovelas
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12164
+#EXTINF:-1 group-title="Lista 03", TNT Series
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12165
+#EXTINF:-1 group-title="Lista 03", TruTV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12166
+#EXTINF:-1 group-title="Lista 03", Unicable
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12167
+#EXTINF:-1 group-title="Lista 03", Univision 41
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12168
+#EXTINF:-1 group-title="Lista 03", Warner
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12169
+#EXTINF:-1 group-title="Lista 03", Adrenalina Sports Network
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12170
+#EXTINF:-1 group-title="Lista 03", Afizzionados
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12171
+#EXTINF:-1 group-title="Lista 03", AyM Sports
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12172
+#EXTINF:-1 group-title="Lista 03", BeinSports ñ
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12173
+#EXTINF:-1 group-title="Lista 03", BeinSports USA
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12174
+#EXTINF:-1 group-title="Lista 03", Canal Toros
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12175
+#EXTINF:-1 group-title="Lista 03", Claro Sports
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12176
+#EXTINF:-1 group-title="Lista 03", ESPN 1
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12177
+#EXTINF:-1 group-title="Lista 03", ESPN 2
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12178
+#EXTINF:-1 group-title="Lista 03", ESPN 3
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12179
+#EXTINF:-1 group-title="Lista 03", ESPN +
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12180
+#EXTINF:-1 group-title="Lista 03", ESPN Deportes
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12181
+#EXTINF:-1 group-title="Lista 03", FOX Deportes
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12182
+#EXTINF:-1 group-title="Lista 03", FOX Sports 1
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12183
+#EXTINF:-1 group-title="Lista 03", FOX Sports 2
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12184
+#EXTINF:-1 group-title="Lista 03", FOX Sports 3
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12185
+#EXTINF:-1 group-title="Lista 03", Golf Channel Latinoamerica
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12186
+#EXTINF:-1 group-title="Lista 03", Movistar F1 TV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12187
+#EXTINF:-1 group-title="Lista 03", Movistar Golf
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12188
+#EXTINF:-1 group-title="Lista 03", NFL Network
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12189
+#EXTINF:-1 group-title="Lista 03", Outdoor Channel
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12190
+#EXTINF:-1 group-title="Lista 03", SEC ESPN Network
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12191
+#EXTINF:-1 group-title="Lista 03", TUDN MX
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12192
+#EXTINF:-1 group-title="Lista 03", TUDN USA
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12193
+#EXTINF:-1 group-title="Lista 03", TVC Deportes
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12194
+#EXTINF:-1 group-title="Lista 03", TyC Sports
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12195
+#EXTINF:-1 group-title="Lista 03", UFC Fight Pass
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12196
+#EXTINF:-1 group-title="Lista 03", WinSports
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12197
+#EXTINF:-1 group-title="Lista 03", Barca TV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12198
+#EXTINF:-1 group-title="Lista 03", Eurosport 1
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12199
+#EXTINF:-1 group-title="Lista 03", Eurosport 2
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12200
+#EXTINF:-1 group-title="Lista 03", Movistar Deportes
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12201
+#EXTINF:-1 group-title="Lista 03", Movistar Deportes 2
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12202
+#EXTINF:-1 group-title="Lista 03", Movistar F1
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12203
+#EXTINF:-1 group-title="Lista 03", Movistar Golf
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12204
+#EXTINF:-1 group-title="Lista 03", Movistar Liga de Campeones
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12205
+#EXTINF:-1 group-title="Lista 03", Real Madrid TV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12206
+#EXTINF:-1 group-title="Lista 03", Toros TV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12207
+#EXTINF:-1 group-title="Lista 03", Argentina - ESPN
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12208
+#EXTINF:-1 group-title="Lista 03", Argentina - ESPN 2
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12209
+#EXTINF:-1 group-title="Lista 03", Argentina - ESPN 3
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12210
+#EXTINF:-1 group-title="Lista 03", Argentina - FOX Sports
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12211
+#EXTINF:-1 group-title="Lista 03", Argentina - FOX Sports 2
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12212
+#EXTINF:-1 group-title="Lista 03", Argentina - FOX Sports 3
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12213
+#EXTINF:-1 group-title="Lista 03", Argentina - FOX Sports Premium
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12214
+#EXTINF:-1 group-title="Lista 03", Argentina - TNT Sports
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12215
+#EXTINF:-1 group-title="Lista 03", Argentina - TYC Sports
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12216
+#EXTINF:-1 group-title="Lista 03", Brasil - Sport TV 1
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12217
+#EXTINF:-1 group-title="Lista 03", Colombia - Win Sports
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12218
+#EXTINF:-1 group-title="Lista 03", Colombia - Win Sports +
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12219
+#EXTINF:-1 group-title="Lista 03", Sudamerica - DirecTV Sports
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12220
+#EXTINF:-1 group-title="Lista 03", Sudamerica - DirecTV Sports 2
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12221
+#EXTINF:-1 group-title="Lista 03", Sudamerica - DirecTV Sports +
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12222
+#EXTINF:-1 group-title="Lista 03", Animal Planet
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12223
+#EXTINF:-1 group-title="Lista 03", Discovery Channel
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12224
+#EXTINF:-1 group-title="Lista 03", Discovery H&H
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12225
+#EXTINF:-1 group-title="Lista 03", Discovery Science
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12226
+#EXTINF:-1 group-title="Lista 03", Discovery Theater
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12227
+#EXTINF:-1 group-title="Lista 03", Discovery TLC
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12228
+#EXTINF:-1 group-title="Lista 03", Discovery Turbo
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12229
+#EXTINF:-1 group-title="Lista 03", Discovery World
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12230
+#EXTINF:-1 group-title="Lista 03", H2
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12231
+#EXTINF:-1 group-title="Lista 03", HGTV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12232
+#EXTINF:-1 group-title="Lista 03", History
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12233
+#EXTINF:-1 group-title="Lista 03", Investigation Discovery
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12234
+#EXTINF:-1 group-title="Lista 03", NatGeo
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12235
+#EXTINF:-1 group-title="Lista 03", Baby TV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12236
+#EXTINF:-1 group-title="Lista 03", Boomerang
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12237
+#EXTINF:-1 group-title="Lista 03", Cartoon Network
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12238
+#EXTINF:-1 group-title="Lista 03", Discovery KIDS
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12239
+#EXTINF:-1 group-title="Lista 03", Disney Channel
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12240
+#EXTINF:-1 group-title="Lista 03", Disney Junior
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12241
+#EXTINF:-1 group-title="Lista 03", Nickelodeon
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12242
+#EXTINF:-1 group-title="Lista 03", Nick 2 (TeenNick)
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12243
+#EXTINF:-1 group-title="Lista 03", Nick JR
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12244
+#EXTINF:-1 group-title="Lista 03", Nicktoons
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12245
+#EXTINF:-1 group-title="Lista 03", Tooncast
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12246
+#EXTINF:-1 group-title="Lista 03", Az Cinema
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12247
+#EXTINF:-1 group-title="Lista 03", Cinelatino
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12248
+#EXTINF:-1 group-title="Lista 03", Cinecanal
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12249
+#EXTINF:-1 group-title="Lista 03", Cinemax
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12250
+#EXTINF:-1 group-title="Lista 03", De Pelicula
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12251
+#EXTINF:-1 group-title="Lista 03", De Pelicula Clasico
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12252
+#EXTINF:-1 group-title="Lista 03", De Pelicula Plus
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12253
+#EXTINF:-1 group-title="Lista 03", Film & Arts
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12254
+#EXTINF:-1 group-title="Lista 03", Golden
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12255
+#EXTINF:-1 group-title="Lista 03", Golden EDGE
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12256
+#EXTINF:-1 group-title="Lista 03", Golden Plus
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12257
+#EXTINF:-1 group-title="Lista 03", Golden Premier
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12258
+#EXTINF:-1 group-title="Lista 03", HBO
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12259
+#EXTINF:-1 group-title="Lista 03", HBO 2
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12260
+#EXTINF:-1 group-title="Lista 03", HBO Family
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12261
+#EXTINF:-1 group-title="Lista 03", HBO Mundi
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12262
+#EXTINF:-1 group-title="Lista 03", HBO Plus
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12263
+#EXTINF:-1 group-title="Lista 03", HBO Signature
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12264
+#EXTINF:-1 group-title="Lista 03", HBO Xtreme
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12265
+#EXTINF:-1 group-title="Lista 03", I.Sat
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12266
+#EXTINF:-1 group-title="Lista 03", HBO POP
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12267
+#EXTINF:-1 group-title="Lista 03", Paramount Channel
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12268
+#EXTINF:-1 group-title="Lista 03", Space
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12269
+#EXTINF:-1 group-title="Lista 03", Studio Universal
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12270
+#EXTINF:-1 group-title="Lista 03", Sundance Channel
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12271
+#EXTINF:-1 group-title="Lista 03", SyFy
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12272
+#EXTINF:-1 group-title="Lista 03", TCM
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12273
+#EXTINF:-1 group-title="Lista 03", TNT
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12274
+#EXTINF:-1 group-title="Lista 03", Universal Channel
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12275
+#EXTINF:-1 group-title="Lista 03", Bandamax
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12276
+#EXTINF:-1 group-title="Lista 03", MTV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12277
+#EXTINF:-1 group-title="Lista 03", MTV Hits
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12278
+#EXTINF:-1 group-title="Lista 03", MTV Live
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12279
+#EXTINF:-1 group-title="Lista 03", Telehit Urbano (Telehit Musica)
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12280
+#EXTINF:-1 group-title="Lista 03", Telehit
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12281
+#EXTINF:-1 group-title="Lista 03", VH1
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12283
+#EXTINF:-1 group-title="Lista 03", VH1 Classics
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12284
+#EXTINF:-1 group-title="Lista 03", Maria Vision
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12285
+#EXTINF:-1 group-title="Lista 03", ADN 40
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12286
+#EXTINF:-1 group-title="Lista 03", CNN en Espanol
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12287
+#EXTINF:-1 group-title="Lista 03", CNN USA
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12288
+#EXTINF:-1 group-title="Lista 03", DW
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12289
+#EXTINF:-1 group-title="Lista 03", Foro TV
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12290
+#EXTINF:-1 group-title="Lista 03", Milenio
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12291
+#EXTINF:-1 group-title="Lista 03", RT en Español
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12292
+#EXTINF:-1 group-title="Lista 03", Antena 3
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12293
+
+
+
+
+#EXTINF:-1,A&E HD
+http://45.7.133.234:58002/play/a06v/index.m3u8
+#EXTINF:-1,AMC HD
+http://45.7.133.234:58002/play/a06w/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://45.7.133.234:58002/play/a06t/index.m3u8
+#EXTINF:-1,Baby TV
+http://45.7.133.234:58002/play/a081/index.m3u8
+#EXTINF:-1,CARACOL LOCAL
+http://45.7.133.234:58002/play/a08e/index.m3u8
+#EXTINF:-1,CARTOON NT HD
+http://45.7.133.234:58002/play/a05j/index.m3u8
+#EXTINF:-1,CINECANAL HD
+http://45.7.133.234:58002/play/a074/index.m3u8
+#EXTINF:-1,Canales
+http://45.7.133.234:58002/play/a08i/index.m3u8
+#EXTINF:-1,Comedy Central HD
+http://45.7.133.234:58002/play/a079/index.m3u8
+#EXTINF:-1,DHE HD
+http://45.7.133.234:58002/play/a06z/index.m3u8
+#EXTINF:-1,DISC THEATHER HD
+http://45.7.133.234:58002/play/a077/index.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://45.7.133.234:58002/play/a07i/index.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://45.7.133.234:58002/play/a080/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://45.7.133.234:58002/play/a07j/index.m3u8
+#EXTINF:-1,E! Entertairment HD
+http://45.7.133.234:58002/play/a06u/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://45.7.133.234:58002/play/a07r/index.m3u8
+#EXTINF:-1,ESPN HD
+http://45.7.133.234:58002/play/a07/index.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD
+http://45.7.133.234:58002/play/a075/index.m3u8
+#EXTINF:-1,FOX SPORTS 3 HD
+http://45.7.133.234:58002/play/a07e/index.m3u8
+#EXTINF:-1,FX HD
+http://45.7.133.234:58002/play/a07t/index.m3u8
+#EXTINF:-1,HISTORY 2 WEB
+http://45.7.133.234:58002/play/a08j/index.m3u8
+#EXTINF:-1,History HD
+http://45.7.133.234:58002/play/a06o/index.m3u8
+#EXTINF:-1,Home & Health HD
+http://45.7.133.234:58002/play/a078/index.m3u8
+#EXTINF:-1,Home Garden Latino
+http://45.7.133.234:58002/play/a082/index.m3u8
+#EXTINF:-1,MTV HD
+http://45.7.133.234:58002/play/a06p/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://45.7.133.234:58002/play/a07f/index.m3u8
+#EXTINF:-1,Paramount HD
+http://45.7.133.234:58002/play/a07g/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://45.7.133.234:58002/play/a07k/index.m3u8
+#EXTINF:-1,RCN LOCAL 1
+http://45.7.133.234:58002/play/a08d/index.m3u8
+#EXTINF:-1,SONY HD
+http://45.7.133.234:58002/play/a073/index.m3u8
+#EXTINF:-1,SPACE HD
+http://45.7.133.234:58002/play/a07w/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://45.7.133.234:58002/play/a071/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://45.7.133.234:58002/play/a06r/index.m3u8
+#EXTINF:-1,SyFy HD
+http://45.7.133.234:58002/play/a06s/index.m3u8
+#EXTINF:-1,TELE NOVELAS
+http://45.7.133.234:58002/play/a08a/index.m3u8
+#EXTINF:-1,TNT HD
+http://45.7.133.234:58002/play/a076/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://45.7.133.234:58002/play/a07h/index.m3u8
+#EXTINF:-1,Teen Nick HD
+http://45.7.133.234:58002/play/a06q/index.m3u8
+#EXTINF:-1,Telemundo HD
+http://45.7.133.234:58002/play/a06x/index.m3u8
+#EXTINF:-1,Universal
+http://45.7.133.234:58002/play/a07y/index.m3u8
+#EXTINF:-1,WARNER HD
+http://45.7.133.234:58002/play/a072/index.m3u8
+#EXTINF:-1,aa
+http://45.7.133.234:58002/play/a08h/index.m3u8
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Lista 03", UNIVISION
+http://bgapp.live/play/zufree-559.php?c=1.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", CANAL FOX
+http://bgapp.live/play/zufree-559.php?c=2.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", FX
+http://bgapp.live/play/zufree-559.php?c=3.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", A&E LATINO
+http://bgapp.live/play/zufree-559.php?c=4.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", FOX LIFE
+http://bgapp.live/play/zufree-559.php?c=5.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", TBS
+http://bgapp.live/play/zufree-559.php?c=6.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", SYFY
+http://bgapp.live/play/zufree-559.php?c=7.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", AXN
+http://bgapp.live/play/zufree-559.php?c=8.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", UNIVERSAL
+http://bgapp.live/play/zufree-559.php?c=9.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", Warner
+http://bgapp.live/play/zufree-559.php?c=10.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", SONY
+http://bgapp.live/play/zufree-559.php?c=11.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", STUDIO UNIVERSAL
+http://bgapp.live/play/zufree-559.php?c=12.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", TNT SERIES
+http://bgapp.live/play/zufree-559.php?c=13.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", E!
+http://bgapp.live/play/zufree-559.php?c=14.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", COMEDY CENTRAL
+http://bgapp.live/play/zufree-559.php?c=15.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", HISTORY CHANNEL
+http://bgapp.live/play/zufree-559.php?c=16.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", NATIONAL GEOGRAPHIC
+http://bgapp.live/play/zufree-559.php?c=17.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", DISCOVERY CHANNEL
+http://bgapp.live/play/zufree-559.php?c=18.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", ANIMAL PLANET
+http://bgapp.live/play/zufree-559.php?c=19.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", NICK JR
+http://bgapp.live/play/zufree-559.php?c=20.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", DISCOVERY KIDS
+http://bgapp.live/play/zufree-559.php?c=21.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", DISNEY JUNIOR
+http://bgapp.live/play/zufree-559.php?c=22.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", NICKELODEON
+http://bgapp.live/play/zufree-559.php?c=23.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", DISNEY CHANNEL
+http://bgapp.live/play/zufree-559.php?c=25.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", ESPN 3
+http://bgapp.live/play/zufree-559.php?c=26.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", ESPN 2
+http://bgapp.live/play/zufree-559.php?c=27.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", ESPN
+http://bgapp.live/play/zufree-559.php?c=28.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", CLARO SPORT
+http://bgapp.live/play/zufree-559.php?c=29.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", HOLA TV
+http://bgapp.live/play/zufree-559.php?c=30.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", CINE - TNT
+http://bgapp.live/play/zufree-559.php?c=31.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", CINE - HBO 2
+http://bgapp.live/play/zufree-559.php?c=32.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", CINE - HBO FAMILY
+http://bgapp.live/play/zufree-559.php?c=33.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", CINE - HBO XTREME
+http://bgapp.live/play/zufree-559.php?c=35.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", BABY TV
+http://bgapp.live/play/zufree-559.php?c=36.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", BOORMERANG MX
+http://bgapp.live/play/zufree-559.php?c=37.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", ESPN DEPORTES
+http://bgapp.live/play/zufree-559.php?c=39.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", NET GEO
+http://bgapp.live/play/zufree-559.php?c=40.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", CINE -SPACE MX
+http://bgapp.live/play/zufree-559.php?c=41.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", MUSICA -MTV HITLIST
+http://bgapp.live/play/zufree-559.php?c=42.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", MUSICA - MTV
+http://bgapp.live/play/zufree-559.php?c=43.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", MUSICA - VH1
+http://bgapp.live/play/zufree-559.php?c=44.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", MUSICA -VIDEO ROLA
+http://bgapp.live/play/zufree-559.php?c=45.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", USA -FOODN
+http://bgapp.live/play/zufree-559.php?c=46.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", USA -DISCOVERY FAMILY
+http://bgapp.live/play/zufree-559.php?c=47.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", USA - BRAVO TV
+http://bgapp.live/play/zufree-559.php?c=48.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", NOTICIA - CNN
+http://bgapp.live/play/zufree-559.php?c=49.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", ATRES
+http://bgapp.live/play/zufree-559.php?c=50.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", MEXICO - AZTECA 7
+http://bgapp.live/play/zufree-559.php?c=51.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", MEXICO - IMAGEN
+http://bgapp.live/play/zufree-559.php?c=52.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", MEXICO - CANAL 22
+http://bgapp.live/play/zufree-559.php?c=53.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", MEXICO - ONCE TV MX
+http://bgapp.live/play/zufree-559.php?c=54.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", MLB
+http://bgapp.live/play/zufree-559.php?c=55.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", NBA
+http://bgapp.live/play/zufree-559.php?c=56.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", FOX SPORT 3
+http://bgapp.live/play/zufree-559.php?c=57.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", [HD:]  ESPN 1
+http://bgapp.live/play/zufree-559.php?c=58.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", [HD:] ESPN EXTRA
+http://bgapp.live/play/zufree-559.php?c=59.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", [HD:] ESPN 2
+http://bgapp.live/play/zufree-559.php?c=60.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", [HD:] MEXICO - MULTIMEDIOS MTY
+http://bgapp.live/play/zufree-559.php?c=61.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", NOTICIA - EL FINANCIERO
+http://bgapp.live/play/zufree-559.php?c=62.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", NOTICIA - DW
+http://bgapp.live/play/zufree-559.php?c=63.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", CINE - CINEMAX
+http://bgapp.live/play/zufree-559.php?c=65.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", CINE - CINECANAL
+http://bgapp.live/play/zufree-559.php?c=66.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", CINE - CINE LATINO
+http://bgapp.live/play/zufree-559.php?c=68.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", ISAT
+http://bgapp.live/play/zufree-559.php?c=69.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", CINE - PARAMOOUNT
+http://bgapp.live/play/zufree-559.php?c=70.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", ENTRETE -PASIONES
+http://bgapp.live/play/zufree-559.php?c=72.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", CINE - GOLDEN PREMIER
+http://bgapp.live/play/zufree-559.php?c=73.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", CINE - FOX ACCION
+http://bgapp.live/play/zufree-559.php?c=74.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", CINE - HBO 1
+http://bgapp.live/play/zufree-559.php?c=80.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", CINE - HBO Plus
+http://bgapp.live/play/zufree-559.php?c=81.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", MEXICO - AZTECA UNO
+http://bgapp.live/play/zufree-559.php?c=82.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", ENTRE - LIFETIME
+http://bgapp.live/play/zufree-559.php?c=83.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", [HD:] ENTRE - UNICABLE
+http://bgapp.live/play/zufree-559.php?c=84.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", ENTRE - UNIMAS
+http://bgapp.live/play/zufree-559.php?c=85.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", ENTRE - GALAVISION
+http://bgapp.live/play/zufree-559.php?c=86.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", CINE - MC
+http://bgapp.live/play/zufree-559.php?c=87.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", CINE - MULTIPREMIER
+http://bgapp.live/play/zufree-559.php?c=88.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", ENTRE - TELENOVELA PR
+http://bgapp.live/play/zufree-559.php?c=89.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", DISCOVERY TURBO
+http://bgapp.live/play/zufree-559.php?c=90.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", DISCOVERY H&H
+http://bgapp.live/play/zufree-559.php?c=91.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", DISCOVERY ID
+http://bgapp.live/play/zufree-559.php?c=92.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", DISCOVERY TLC
+http://bgapp.live/play/zufree-559.php?c=93.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", [HD:] DISCOVERY THEATER
+http://bgapp.live/play/zufree-559.php?c=94.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", H2
+http://bgapp.live/play/zufree-559.php?c=95.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", MEXICO - CANAL 5 SD
+http://bgapp.live/play/zufree-559.php?c=96.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", MEXICO - LAS ESTRELLAS
+http://bgapp.live/play/zufree-559.php?c=97.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", USA - UNIVERSO
+http://bgapp.live/play/zufree-559.php?c=99.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", BEIN SPORT 720 HD
+http://bgapp.live/play/zufree-559.php?c=100.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", USA - NBCSN
+http://bgapp.live/play/zufree-559.php?c=101.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", FOX SPORT  premium mx
+http://bgapp.live/play/zufree-559.php?c=102.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", FOX SPORT 2
+http://bgapp.live/play/zufree-559.php?c=103.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", [HD:] ESPN 3
+http://bgapp.live/play/zufree-559.php?c=104.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", SD:] FILM ART
+http://bgapp.live/play/zufree-559.php?c=106.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", CINE - MULTICINEMA
+http://bgapp.live/play/zufree-559.php?c=107.m3u8&blck
+#EXTINF:-1 group-title="Lista 03", *TNT SPORT 2 MX HBO MAX HD
+http://bgapp.live/play/zufree-559.php?c=108.m3u8&blck
+
+
+
+
+
 #EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-5dcdde78f080d900098550e4" tvg-id="5dcdde78f080d900098550e4" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Comedia
@@ -247,88 +1146,3 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f5
 
 
 
-
-#EXTINF:-1,A&E HD
-http://45.7.133.234:58002/play/a06v/index.m3u8
-#EXTINF:-1,AMC HD
-http://45.7.133.234:58002/play/a06w/index.m3u8
-#EXTINF:-1,Animal Planet HD
-http://45.7.133.234:58002/play/a06t/index.m3u8
-#EXTINF:-1,Baby TV
-http://45.7.133.234:58002/play/a081/index.m3u8
-#EXTINF:-1,CARACOL LOCAL
-http://45.7.133.234:58002/play/a08e/index.m3u8
-#EXTINF:-1,CARTOON NT HD
-http://45.7.133.234:58002/play/a05j/index.m3u8
-#EXTINF:-1,CINECANAL HD
-http://45.7.133.234:58002/play/a074/index.m3u8
-#EXTINF:-1,Canales
-http://45.7.133.234:58002/play/a08i/index.m3u8
-#EXTINF:-1,Comedy Central HD
-http://45.7.133.234:58002/play/a079/index.m3u8
-#EXTINF:-1,DHE HD
-http://45.7.133.234:58002/play/a06z/index.m3u8
-#EXTINF:-1,DISC THEATHER HD
-http://45.7.133.234:58002/play/a077/index.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://45.7.133.234:58002/play/a07i/index.m3u8
-#EXTINF:-1,Discovery Kids HD
-http://45.7.133.234:58002/play/a080/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://45.7.133.234:58002/play/a07j/index.m3u8
-#EXTINF:-1,E! Entertairment HD
-http://45.7.133.234:58002/play/a06u/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://45.7.133.234:58002/play/a07r/index.m3u8
-#EXTINF:-1,ESPN HD
-http://45.7.133.234:58002/play/a07/index.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-http://45.7.133.234:58002/play/a075/index.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD
-http://45.7.133.234:58002/play/a07e/index.m3u8
-#EXTINF:-1,FX HD
-http://45.7.133.234:58002/play/a07t/index.m3u8
-#EXTINF:-1,HISTORY 2 WEB
-http://45.7.133.234:58002/play/a08j/index.m3u8
-#EXTINF:-1,History HD
-http://45.7.133.234:58002/play/a06o/index.m3u8
-#EXTINF:-1,Home & Health HD
-http://45.7.133.234:58002/play/a078/index.m3u8
-#EXTINF:-1,Home Garden Latino
-http://45.7.133.234:58002/play/a082/index.m3u8
-#EXTINF:-1,MTV HD
-http://45.7.133.234:58002/play/a06p/index.m3u8
-#EXTINF:-1,Nat Geo HD
-http://45.7.133.234:58002/play/a07f/index.m3u8
-#EXTINF:-1,Paramount HD
-http://45.7.133.234:58002/play/a07g/index.m3u8
-#EXTINF:-1,Pasiones HD
-http://45.7.133.234:58002/play/a07k/index.m3u8
-#EXTINF:-1,RCN LOCAL 1
-http://45.7.133.234:58002/play/a08d/index.m3u8
-#EXTINF:-1,SONY HD
-http://45.7.133.234:58002/play/a073/index.m3u8
-#EXTINF:-1,SPACE HD
-http://45.7.133.234:58002/play/a07w/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://45.7.133.234:58002/play/a071/index.m3u8
-#EXTINF:-1,Studio Universal HD
-http://45.7.133.234:58002/play/a06r/index.m3u8
-#EXTINF:-1,SyFy HD
-http://45.7.133.234:58002/play/a06s/index.m3u8
-#EXTINF:-1,TELE NOVELAS
-http://45.7.133.234:58002/play/a08a/index.m3u8
-#EXTINF:-1,TNT HD
-http://45.7.133.234:58002/play/a076/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://45.7.133.234:58002/play/a07h/index.m3u8
-#EXTINF:-1,Teen Nick HD
-http://45.7.133.234:58002/play/a06q/index.m3u8
-#EXTINF:-1,Telemundo HD
-http://45.7.133.234:58002/play/a06x/index.m3u8
-#EXTINF:-1,Universal
-http://45.7.133.234:58002/play/a07y/index.m3u8
-#EXTINF:-1,WARNER HD
-http://45.7.133.234:58002/play/a072/index.m3u8
-#EXTINF:-1,aa
-http://45.7.133.234:58002/play/a08h/index.m3u8
