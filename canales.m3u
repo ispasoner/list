@@ -1052,63 +1052,7 @@ http://bgapp.live/play/14-600.php?c=326&tokeen=blackgghost&f=.m3u8|user-agent=Da
 http://bgapp.live/play/14-600.php?c=809&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" nada="Uruguay" group-title="LISTA-05", Latina TV
 http://bgapp.live/play/14-600.php?c=782&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" nada="24/7" group-title="LISTA-05", Le Temes a la Oscuridad 24/7
-http://bgapp.live/play/14-600.php?c=888&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" nada="Entretenimiento" group-title="LISTA-05", Lifetime
-http://bgapp.live/play/14-600.php?c=152&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" nada="Deportes" group-title="LISTA-05", Liga de Campeones
-http://bgapp.live/play/14-600.php?c=890&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" nada="Deportes" group-title="LISTA-05", Liga de Campeones 2
-http://bgapp.live/play/14-600.php?c=893&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" nada="24/7" group-title="LISTA-05", Looney Tunes 24/7
-http://bgapp.live/play/14-600.php?c=524&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png" nada="24/7" group-title="LISTA-05", Los 3 Chiflados 24/7
-http://bgapp.live/play/14-600.php?c=423&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" nada="Entretenimiento" group-title="LISTA-05", Los Años Maravillosos 24/7
-http://bgapp.live/play/14-600.php?c=810&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" nada="Entretenimiento" group-title="LISTA-05", Los Padrinos Magicos 24/7
-http://bgapp.live/play/14-600.php?c=813&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" nada="24/7" group-title="LISTA-05", Los Picapiedra 24/7
-http://bgapp.live/play/14-600.php?c=669&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" nada="24/7" group-title="LISTA-05", Los Pinguinos de Madagascar 24/7
-http://bgapp.live/play/14-600.php?c=794&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png" nada="24/7" group-title="LISTA-05", Los Pitufos 24/7
-http://bgapp.live/play/14-600.php?c=795&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" nada="24/7" group-title="LISTA-05", Los Reyes de la Colina 24/7
-http://bgapp.live/play/14-600.php?c=796&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" nada="24/7" group-title="LISTA-05", Los Simpson 24/7
-http://bgapp.live/play/14-600.php?c=357&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png" nada="24/7" group-title="LISTA-05", Los Supersonicos 24/7
-http://bgapp.live/play/14-600.php?c=797&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" nada="Entretenimiento" group-title="LISTA-05", Los Vengadores Unidos 24/7
-http://bgapp.live/play/14-600.php?c=818&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Musica" group-title="LISTA-05", m2o TV
-http://bgapp.live/play/14-600.php?c=203&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" nada="24/7" group-title="LISTA-05", Malcolm 24/7
-http://bgapp.live/play/14-600.php?c=798&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png" nada="Entretenimiento" group-title="LISTA-05", Más chic
-http://bgapp.live/play/14-600.php?c=180&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="HD" group-title="LISTA-05", Max Prime
-http://bgapp.live/play/14-600.php?c=730&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png" nada="Entretenimiento" group-title="LISTA-05", Max Steel 24/7
-http://bgapp.live/play/14-600.php?c=880&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="HD" group-title="LISTA-05", Max Up
-http://bgapp.live/play/14-600.php?c=659&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" nada="Chile" group-title="LISTA-05", Mega
-http://bgapp.live/play/14-600.php?c=766&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" nada="Puerto Rico" group-title="LISTA-05", Mega
-http://bgapp.live/play/14-600.php?c=784&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="España" group-title="LISTA-05", Mega (ES)
-http://bgapp.live/play/14-600.php?c=352&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Peliculas" group-title="LISTA-05", MegaCine
-http://bgapp.live/play/14-600.php?c=517&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mimusicahd.png" nada="Musica" group-title="LISTA-05", Mi Musica
-http://bgapp.live/play/14-600.php?c=172&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Entretenimiento" group-title="LISTA-05", Miami TV
-http://bgapp.live/play/14-600.php?c=251&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/milenio.png" nada="Noticias" group-title="LISTA-05", Milenio
-http://bgapp.live/play/14-600.php?c=140&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mlb.png" nada="Deportes" group-title="LISTA-05", MLB Network
+
 http://bgapp.live/play/14-600.php?c=293&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png" nada="Peliculas" group-title="LISTA-05", Movie Max
 http://bgapp.live/play/14-600.php?c=678&tokeen=blackgghost&f=.m3u8|user-agent=Dalvik/2.1.0
