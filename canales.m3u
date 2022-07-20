@@ -1,7 +1,468 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/ispasoner/list/main/EPG-Guide-20220613014819.xml"
 
 
-#EXTM3U
+
+
+
+
+
+
+#EXTINF:-1 group-title="Lista mx1",A&E HD (211)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=62
+#EXTINF:-1 group-title="Lista mx1",A+
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2316
+#EXTINF:-1 group-title="Lista mx1",A3SERIES
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2113
+#EXTINF:-1 group-title="Lista mx1",ADN 40 HD (140)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=40
+#EXTINF:-1 group-title="Lista mx1",ADN 40 HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=3087
+#EXTINF:-1 group-title="Lista mx1",ADN 40
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2067
+#EXTINF:-1 group-title="Lista mx1",ADRENALINA HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1799
+#EXTINF:-1 group-title="Lista mx1",ADRENALINA SPORTS NETWORK
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2404
+#EXTINF:-1 group-title="Lista mx1",ALJAZEERA
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=192
+#EXTINF:-1 group-title="Lista mx1",AMC (490)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=131
+#EXTINF:-1 group-title="Lista mx1",AMC HD (444)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=328
+#EXTINF:-1 group-title="Lista mx1",ANIMAL PLANET (373)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=88
+#EXTINF:-1 group-title="Lista mx1",ANIMAL PLANET
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2378
+#EXTINF:-1 group-title="Lista mx1",ANTENA 3
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=199
+#EXTINF:-1 group-title="Lista mx1",A PLUS HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=3089
+#EXTINF:-1 group-title="Lista mx1",A PLUS
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2319
+#EXTINF:-1 group-title="Lista mx1",ATRESCINE HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=3112
+#EXTINF:-1 group-title="Lista mx1",AXN HD (213)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=64
+#EXTINF:-1 group-title="Lista mx1",AYM SPORTS (576)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=180
+#EXTINF:-1 group-title="Lista mx1",AZ CINEMA
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1787
+#EXTINF:-1 group-title="Lista mx1",AZ CLIC HD (725)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=11
+#EXTINF:-1 group-title="Lista mx1",AZ CLICK HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=403
+#EXTINF:-1 group-title="Lista mx1",AZ CLICK
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2293
+#EXTINF:-1 group-title="Lista mx1",AZ CORAZON HD (250)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=70
+#EXTINF:-1 group-title="Lista mx1",AZ CORAZON HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2410
+#EXTINF:-1 group-title="Lista mx1",AZ MUNDO HD (276)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=84
+#EXTINF:-1 group-title="Lista mx1",AZTECA 7 HD (1)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2
+#EXTINF:-1 group-title="Lista mx1",AZTECA 7 HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=3078
+#EXTINF:-1 group-title="Lista mx1",AZTECA 7
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2125
+#EXTINF:-1 group-title="Lista mx1",AZTECA UNO HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=649
+#EXTINF:-1 group-title="Lista mx1",AZTECA UNO HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=3072
+#EXTINF:-1 group-title="Lista mx1",AZTECA UNO
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=7
+#EXTINF:-1 group-title="Lista mx1",AZTECA UNO
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2380
+#EXTINF:-1 group-title="Lista mx1",BABY FIRST
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1984
+#EXTINF:-1 group-title="Lista mx1",BABYTV
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=116
+#EXTINF:-1 group-title="Lista mx1",BANDAMAX (732)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=221
+#EXTINF:-1 group-title="Lista mx1",BBC WORLD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=191
+#EXTINF:-1 group-title="Lista mx1",BIT ME
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2591
+#EXTINF:-1 group-title="Lista mx1",BLOOMBERG MX HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1649
+#EXTINF:-1 group-title="Lista mx1",BLOOMBERG MX
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2167
+#EXTINF:-1 group-title="Lista mx1",BLOOMBERG
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=190
+#EXTINF:-1 group-title="Lista mx1",BOOMERANG (324)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=115
+#EXTINF:-1 group-title="Lista mx1",CANAL 5 (105)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=20
+#EXTINF:-1 group-title="Lista mx1",CANAL 5 HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=3086
+#EXTINF:-1 group-title="Lista mx1",CANAL 5
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2251
+#EXTINF:-1 group-title="Lista mx1",CANAL 6 HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=3077
+#EXTINF:-1 group-title="Lista mx1",CANAL 6
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2390
+#EXTINF:-1 group-title="Lista mx1",CANAL DE LAS ESTRELLAS (102)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=17
+#EXTINF:-1 group-title="Lista mx1",CANAL DE LAS ESTRELLAS HD (2)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=402
+#EXTINF:-1 group-title="Lista mx1",CANAL ONCE HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2938
+#EXTINF:-1 group-title="Lista mx1",CANAL ONCE
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=25
+#EXTINF:-1 group-title="Lista mx1",CANAL ONCE
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2354
+#EXTINF:-1 group-title="Lista mx1",CANAL TOTAL
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2361
+#EXTINF:-1 group-title="Lista mx1",CANAL TP FAMILIA
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1977
+#EXTINF:-1 group-title="Lista mx1",CANAL TP HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=3255
+#EXTINF:-1 group-title="Lista mx1",CANAL TP
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1973
+#EXTINF:-1 group-title="Lista mx1",CARTOON NETWORK (320)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=112
+#EXTINF:-1 group-title="Lista mx1",CINECANAL (480)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=337
+#EXTINF:-1 group-title="Lista mx1",CINECANAL HD (430)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=149
+#EXTINF:-1 group-title="Lista mx1",CINEMAX (481)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=158
+#EXTINF:-1 group-title="Lista mx1",CLARO SPORTS
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2564
+#EXTINF:-1 group-title="Lista mx1",CNN ESPANOL
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=187
+#EXTINF:-1 group-title="Lista mx1",CNN INTERNACIONAL
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=186
+#EXTINF:-1 group-title="Lista mx1",CNN
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=185
+#EXTINF:-1 group-title="Lista mx1",COMEDY CENTRAL HD (217)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=340
+#EXTINF:-1 group-title="Lista mx1",CONGRESO DE LA UNION
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2331
+#EXTINF:-1 group-title="Lista mx1",CURIOSITY STREAM
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2594
+#EXTINF:-1 group-title="Lista mx1",DE PELICULA HD (442)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=121
+#EXTINF:-1 group-title="Lista mx1",DE PELICULA
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=335
+#EXTINF:-1 group-title="Lista mx1",DISCOVERY CHANNEL (371)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=86
+#EXTINF:-1 group-title="Lista mx1",DISCOVERY CIVILIZATION (382)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=99
+#EXTINF:-1 group-title="Lista mx1",DISCOVERY H&H (374)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=96
+#EXTINF:-1 group-title="Lista mx1",DISCOVERY KIDS (303)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=109
+#EXTINF:-1 group-title="Lista mx1",DISCOVERY KIDS
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2377
+#EXTINF:-1 group-title="Lista mx1",DISCOVERY SCIENCE (381)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=98
+#EXTINF:-1 group-title="Lista mx1",DISCOVERY THEATER HD (351)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=95
+#EXTINF:-1 group-title="Lista mx1",DISCOVERY TURBO (383)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=100
+#EXTINF:-1 group-title="Lista mx1",DISCOVERY TURBO
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2379
+#EXTINF:-1 group-title="Lista mx1",DISCOVERY WORLD HD (356)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=101
+#EXTINF:-1 group-title="Lista mx1",DISNEY CHANNEL (312)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=113
+#EXTINF:-1 group-title="Lista mx1",DISNEY JR (308)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=118
+#EXTINF:-1 group-title="Lista mx1",DISNEY JR HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=849
+#EXTINF:-1 group-title="Lista mx1",DISNEY XD (322)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=111
+#EXTINF:-1 group-title="Lista mx1",DISTRITO COMEDIA (272)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=78
+#EXTINF:-1 group-title="Lista mx1",DW
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=203
+#EXTINF:-1 group-title="Lista mx1",E! ENTERTAINMENT HD (255)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=55
+#EXTINF:-1 group-title="Lista mx1",EL GARAGE TV (269)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=75
+#EXTINF:-1 group-title="Lista mx1",EL GOURMET (268)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=74
+#EXTINF:-1 group-title="Lista mx1",ESPN + HD (516)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=167
+#EXTINF:-1 group-title="Lista mx1",ESPN 2 HD (561)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=169
+#EXTINF:-1 group-title="Lista mx1",ESPN 3 HD (520)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=345
+#EXTINF:-1 group-title="Lista mx1",ESPN INTERNACIONAL HD (558)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=168
+#EXTINF:-1 group-title="Lista mx1",EUROPA EUROPA
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=136
+#EXTINF:-1 group-title="Lista mx1",EXCELSIOR TV
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1449
+#EXTINF:-1 group-title="Lista mx1",FILM ART
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=137
+#EXTINF:-1 group-title="Lista mx1",FOOD NETWORK
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=97
+#EXTINF:-1 group-title="Lista mx1",FORO TV (104)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=700
+#EXTINF:-1 group-title="Lista mx1",FORO TV HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2916
+#EXTINF:-1 group-title="Lista mx1",FORO TV
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=19
+#EXTINF:-1 group-title="Lista mx1",FOX ACTION HD (416)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=336
+#EXTINF:-1 group-title="Lista mx1",FOX CHANNEL (251)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=47
+#EXTINF:-1 group-title="Lista mx1",FOX CHANNEL
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=201
+#EXTINF:-1 group-title="Lista mx1",FOX CHANNEL
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1757
+#EXTINF:-1 group-title="Lista mx1",FOX HD (201)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=46
+#EXTINF:-1 group-title="Lista mx1",FOX HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2368
+#EXTINF:-1 group-title="Lista mx1",FOX LIFE (271)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=77
+#EXTINF:-1 group-title="Lista mx1",FOX MOVIES HD (417)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=146
+#EXTINF:-1 group-title="Lista mx1",FOX NEW LIVE
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=188
+#EXTINF:-1 group-title="Lista mx1",FOX PREMIUM CINEMA
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1729
+#EXTINF:-1 group-title="Lista mx1",FOX PREMIUM CLASSICS
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1732
+#EXTINF:-1 group-title="Lista mx1",FOX PREMIUM COMEDY HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1725
+#EXTINF:-1 group-title="Lista mx1",FOX PREMIUM FAMILY O HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1724
+#EXTINF:-1 group-title="Lista mx1",FOX SERIES HD (415)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=139
+#EXTINF:-1 group-title="Lista mx1",FOX SPORT 3 (178)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=178
+#EXTINF:-1 group-title="Lista mx1",FOX SPORTS 2 HD (527)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=172
+#EXTINF:-1 group-title="Lista mx1",FOX SPORTS 2 OP2
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=173
+#EXTINF:-1 group-title="Lista mx1",FOX SPORTS HD (522)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=170
+#EXTINF:-1 group-title="Lista mx1",FOX SPORTS OP2
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=171
+#EXTINF:-1 group-title="Lista mx1",FRANCE 24
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2402
+#EXTINF:-1 group-title="Lista mx1",FUEL TV HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2587
+#EXTINF:-1 group-title="Lista mx1",FX (258)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=56
+#EXTINF:-1 group-title="Lista mx1",FX HD (209)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=60
+#EXTINF:-1 group-title="Lista mx1",FXM
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=332
+#EXTINF:-1 group-title="Lista mx1",FX
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=209
+#EXTINF:-1 group-title="Lista mx1",GALA TV (109)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=24
+#EXTINF:-1 group-title="Lista mx1",GLITZ (270)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=76
+#EXTINF:-1 group-title="Lista mx1",GOLDEN EDGE (484)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=124
+#EXTINF:-1 group-title="Lista mx1",GOLDEN HD (436)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=122
+#EXTINF:-1 group-title="Lista mx1",GOLDEN
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=123
+#EXTINF:-1 group-title="Lista mx1",GOLF CHANNEL LATIN AMERICA (179)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=179
+#EXTINF:-1 group-title="Lista mx1",HAVOC
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2148
+#EXTINF:-1 group-title="Lista mx1",HGTV
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=3105
+#EXTINF:-1 group-title="Lista mx1",HISTORY CHANNEL HD (353)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=89
+#EXTINF:-1 group-title="Lista mx1",HLN
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=197
+#EXTINF:-1 group-title="Lista mx1",HOLA TV!
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1734
+#EXTINF:-1 group-title="Lista mx1",HOLA TV
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=219
+#EXTINF:-1 group-title="Lista mx1",ID (263)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=68
+#EXTINF:-1 group-title="Lista mx1",IMAGEN TELEVISION HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=3097
+#EXTINF:-1 group-title="Lista mx1",IMAGEN TELEVISION
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2407
+#EXTINF:-1 group-title="Lista mx1",IMAGEN TV
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2298
+#EXTINF:-1 group-title="Lista mx1",INGENIO TV
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=401
+#EXTINF:-1 group-title="Lista mx1",INVESTIGATION DISCOVERY
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2376
+#EXTINF:-1 group-title="Lista mx1",ISAT (495)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=135
+#EXTINF:-1 group-title="Lista mx1",JUSTICIA TV
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=196
+#EXTINF:-1 group-title="Lista mx1",LAS ESTRELLAS HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=3085
+#EXTINF:-1 group-title="Lista mx1",LAS ESTRELLAS
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2250
+#EXTINF:-1 group-title="Lista mx1",LIFETIME (379)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=94
+#EXTINF:-1 group-title="Lista mx1",MASCHIC
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1842
+#EXTINF:-1 group-title="Lista mx1",MEXIQUENSES
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=44
+#EXTINF:-1 group-title="Lista mx1",MILENIO NOTICIAS
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1250
+#EXTINF:-1 group-title="Lista mx1",MILENIO TV (603)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1252
+#EXTINF:-1 group-title="Lista mx1",MILENIO TV 4:3
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1989
+#EXTINF:-1 group-title="Lista mx1",MORBIDO TV
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=140
+#EXTINF:-1 group-title="Lista mx1",MTV HD (726)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=212
+#EXTINF:-1 group-title="Lista mx1",MTV HITS (727)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=213
+#EXTINF:-1 group-title="Lista mx1",MTV LIVE HD (701)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=211
+#EXTINF:-1 group-title="Lista mx1",MULTIMEDIOS MONTERREY (2305)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2305
+#EXTINF:-1 group-title="Lista mx1",MULTIMEDIOS PLUS (167)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1253
+#EXTINF:-1 group-title="Lista mx1",MVSTV
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2149
+#EXTINF:-1 group-title="Lista mx1",MVS TV
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2306
+#EXTINF:-1 group-title="Lista mx1",NAT GEO KIDS (2373)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2373
+#EXTINF:-1 group-title="Lista mx1",NAT GEO KIDS
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2370
+#EXTINF:-1 group-title="Lista mx1",NAT GEO WILD HD (355)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=92
+#EXTINF:-1 group-title="Lista mx1",NATGEO
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1650
+#EXTINF:-1 group-title="Lista mx1",NATIONAL GEOGRAPHIC (377)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=91
+#EXTINF:-1 group-title="Lista mx1",NICK (317)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=110
+#EXTINF:-1 group-title="Lista mx1",NICK 2
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2147
+#EXTINF:-1 group-title="Lista mx1",NICK HD (315)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=331
+#EXTINF:-1 group-title="Lista mx1",NICK JR (310)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=117
+#EXTINF:-1 group-title="Lista mx1",NICKTOONS
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1708
+#EXTINF:-1 group-title="Lista mx1",NTN 24
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=194
+#EXTINF:-1 group-title="Lista mx1",NUEVE HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=3058
+#EXTINF:-1 group-title="Lista mx1",NUEVE
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2039
+#EXTINF:-1 group-title="Lista mx1",NUEVE
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2061
+#EXTINF:-1 group-title="Lista mx1",ONCE NINOS
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2222
+#EXTINF:-1 group-title="Lista mx1",ONCE TV (111)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1942
+#EXTINF:-1 group-title="Lista mx1",PARAMOUNT CHANNEL
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1726
+#EXTINF:-1 group-title="Lista mx1",PLANET X HD (528)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=950
+#EXTINF:-1 group-title="Lista mx1",RITMOSON (731)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=218
+#EXTINF:-1 group-title="Lista mx1",RT NEWS
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=999
+#EXTINF:-1 group-title="Lista mx1",RT NEWS
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2091
+#EXTINF:-1 group-title="Lista mx1",SONY HD (203)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=48
+#EXTINF:-1 group-title="Lista mx1",SPACE (491)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=130
+#EXTINF:-1 group-title="Lista mx1",SPACE HD (445)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=129
+#EXTINF:-1 group-title="Lista mx1",STAR TVE
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2375
+#EXTINF:-1 group-title="Lista mx1",STUDIO UNIVERSAL (492)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=132
+#EXTINF:-1 group-title="Lista mx1",STUDIO UNIVERSAL HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1982
+#EXTINF:-1 group-title="Lista mx1",SUNDANCE TV
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=69
+#EXTINF:-1 group-title="Lista mx1",SYFY (257)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=59
+#EXTINF:-1 group-title="Lista mx1",TBS VERY FUNNY (273)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=81
+#EXTINF:-1 group-title="Lista mx1",TCM (496)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=128
+#EXTINF:-1 group-title="Lista mx1",TELEFORMULA (161)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=32
+#EXTINF:-1 group-title="Lista mx1",TELEHIT HD (702)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=220
+#EXTINF:-1 group-title="Lista mx1",TELEMAR
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2089
+#EXTINF:-1 group-title="Lista mx1",TELEMUNDO
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=85
+#EXTINF:-1 group-title="Lista mx1",TELERITMO
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1943
+#EXTINF:-1 group-title="Lista mx1",TELEVISA GUANAJUATO
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2355
+#EXTINF:-1 group-title="Lista mx1",TELEVISA MONTERREY
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2307
+#EXTINF:-1 group-title="Lista mx1",TELEVISA PUEBLA
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2312
+#EXTINF:-1 group-title="Lista mx1",THE FILM ZONE HD (440)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=138
+#EXTINF:-1 group-title="Lista mx1",TIIN (325)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=114
+#EXTINF:-1 group-title="Lista mx1",TLNOVELAS (275)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=83
+#EXTINF:-1 group-title="Lista mx1",TNT (482)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=127
+#EXTINF:-1 group-title="Lista mx1",TNT HD (435)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=126
+#EXTINF:-1 group-title="Lista mx1",TNT SERIES (266)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=71
+#EXTINF:-1 group-title="Lista mx1",TOONCAST (328)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=108
+#EXTINF:-1 group-title="Lista mx1",TRUTV HD (215)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=79
+#EXTINF:-1 group-title="Lista mx1",TUDN HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1975
+#EXTINF:-1 group-title="Lista mx1",TUDN MEXICO
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=174
+#EXTINF:-1 group-title="Lista mx1",TVC DEPORTES
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2157
+#EXTINF:-1 group-title="Lista mx1",TVCUATRO GUANAJUATO HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2274
+#EXTINF:-1 group-title="Lista mx1",TVCUATRO GUANAJUATO
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2357
+#EXTINF:-1 group-title="Lista mx1",TVC
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2156
+#EXTINF:-1 group-title="Lista mx1",TVE (651)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=198
+#EXTINF:-1 group-title="Lista mx1",TVMAS
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2324
+#EXTINF:-1 group-title="Lista mx1",UNICABLE
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=1499
+#EXTINF:-1 group-title="Lista mx1",UNIVERSAL CHANNEL (256)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=58
+#EXTINF:-1 group-title="Lista mx1",UNIVERSAL CHANNEL HD (207)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=57
+#EXTINF:-1 group-title="Lista mx1",UNIVERSAL CHANNEL HD
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=2369
+#EXTINF:-1 group-title="Lista mx1",UNIVERSAL CHANNEL
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=207
+#EXTINF:-1 group-title="Lista mx1",VH1 CLASSICS (728)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=214
+#EXTINF:-1 group-title="Lista mx1",VH1 HD (703)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=334
+#EXTINF:-1 group-title="Lista mx1",VH1
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=217
+#EXTINF:-1 group-title="Lista mx1",WARNER CHANNEL HD (205)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=52
+#EXTINF:-1 group-title="Lista mx1",WARNER CHANNEL
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=205
+#EXTINF:-1 group-title="Lista mx1",WOBI HD (387)
+http://bgapp.live/play/totalp1s-777.php?k=blckghost&token=blacckkghost&c=102
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" nada="Entretenimiento" group-title="Lista 01", A&E
 http://bgapp.live/play/14--777.php?c=1&dir=blacckkghost&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
