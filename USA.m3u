@@ -1,12 +1,6 @@
-#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml"
-https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml
-https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml
-https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml
-https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml
-https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml
-https://iptv-org.github.io/epg/guides/us-en/beinsports.com.epg.xml
-https://iptv-org.github.io/epg/guides/us-es/beinsports.com.epg.xml
-https://iptv-org.github.io/epg/guides/us/ontvtonight.com.epg.xml
+#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+
+
 
 
 #EXTINF:-1 tvg-id="K17JIDT3.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zI6jr9L.png" group-title="Religious",3ABN Dare to Dream (720p) [Not 24/7]
